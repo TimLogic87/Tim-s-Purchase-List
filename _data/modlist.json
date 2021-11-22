@@ -1,1 +1,9 @@
-[]
+[
+{
+    "description": "Updates the current list of active viewers.",
+    "name": "Refresh viewers",
+    "usage": "!refreshviewers",
+    "userLevel": "Moderator",
+    "shortcut": false
+  }
+]
