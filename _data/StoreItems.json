@@ -1748,7 +1748,7 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": 163,
 		"category": "Animals",
 		"defname": "Turkey"
 	},
@@ -3943,18 +3943,6 @@
 		"defname": "ELIFV-22Transport"
 	},
 	{
-		"abr": "robotmaid",
-		"price": 167,
-		"category": "Manufactured",
-		"defname": "RoboMaidSpawner"
-	},
-	{
-		"abr": "robotmaid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "RobotMaid_Race"
-	},
-	{
 		"abr": "acanthamoebagigantea,huge",
 		"price": 1167,
 		"category": "Animals",
@@ -4694,7 +4682,7 @@
 	},
 	{
 		"abr": "fungalhusk",
-		"price": 250,
+		"price": 250000000,
 		"category": "Animals",
 		"defname": "AA_FungalHusk"
 	},
@@ -6019,6 +6007,1296 @@
 		"defname": "VAE_Apparel_TribalPoncho"
 	},
 	{
+		"abr": "<color=#00fff7>auxilaryheart</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart"
+	},
+	{
+		"abr": "<color=#00fff7>butchersnails</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_ButchersNails"
+	},
+	{
+		"abr": "<color=#00fff7>calciumalloyribcage</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage"
+	},
+	{
+		"abr": "<color=#00fff7>combatserumgland</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland"
+	},
+	{
+		"abr": "<color=#00fff7>cranialplating</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skull_CranialPlating"
+	},
+	{
+		"abr": "<color=#00fff7>distendablejaw</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_DistendableJaw"
+	},
+	{
+		"abr": "<color=#00fff7>extrananofilterlung</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung"
+	},
+	{
+		"abr": "<color=#00fff7>extradextrousappendage</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_ExtradextrousArm"
+	},
+	{
+		"abr": "<color=#00fff7>featheredwings</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_FeatheredWings"
+	},
+	{
+		"abr": "<color=#00fff7>flameretardantskin</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin"
+	},
+	{
+		"abr": "<color=#00fff7>frostmantishook</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_FrostMantisHook"
+	},
+	{
+		"abr": "<color=#00fff7>graspingleg</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_GraspingLeg"
+	},
+	{
+		"abr": "<color=#00fff7>highpressurepincer</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_HighPressurePincer"
+	},
+	{
+		"abr": "<color=#00fff7>hormoneregulator</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator"
+	},
+	{
+		"abr": "<color=#00fff7>interferenceshielding</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skull_InterferenceShielding"
+	},
+	{
+		"abr": "<color=#00fff7>iridescenteye</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Eye_IridescentEye"
+	},
+	{
+		"abr": "<color=#00fff7>leatherywings</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_LeatheryWings"
+	},
+	{
+		"abr": "<color=#00fff7>lymphaticproliferator</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator"
+	},
+	{
+		"abr": "<color=#00fff7>microanalyzernose</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose_MicroAnalyzerNose"
+	},
+	{
+		"abr": "<color=#00fff7>multichamberstomach</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Stomach_MultichamberStomach"
+	},
+	{
+		"abr": "<color=#00fff7>multifrequencyear</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Ear_MultifrequencyEar"
+	},
+	{
+		"abr": "<color=#00fff7>multilayereddermalplating</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating"
+	},
+	{
+		"abr": "<color=#00fff7>multispectrumeye</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Eye_MultispectrumEye"
+	},
+	{
+		"abr": "<color=#00fff7>musculaturebraces</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_MusculatureBraces"
+	},
+	{
+		"abr": "<color=#00fff7>nanoalveolilung</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Lung_NanoAlveoliLung"
+	},
+	{
+		"abr": "<color=#00fff7>neuralhyperthreader</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_NeuralHyperthreader"
+	},
+	{
+		"abr": "<color=#00fff7>neuroacceleratedspine</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Spine_NeuroAcceleratedSpine"
+	},
+	{
+		"abr": "<color=#00fff7>ossifiedbonesaber</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_OssifiedBoneSaber"
+	},
+	{
+		"abr": "<color=#00fff7>peltgrowth</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_PeltGrowth"
+	},
+	{
+		"abr": "<color=#00fff7>perspirationcleansingkidney</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Kidney_PerspirationCleansingKidney"
+	},
+	{
+		"abr": "<color=#00fff7>pheromonereleasernose</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Nose_PheromoneReleaserNose"
+	},
+	{
+		"abr": "<color=#00fff7>phytoplanktonskin</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin"
+	},
+	{
+		"abr": "<color=#00fff7>plaguelesions</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Sternum_PlagueLesions"
+	},
+	{
+		"abr": "<color=#00fff7>psychicresonancetissue</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue"
+	},
+	{
+		"abr": "<color=#00fff7>quadlobeliver</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Liver_QuadlobeLiver"
+	},
+	{
+		"abr": "<color=#00fff7>radiationabsorbingskin</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin"
+	},
+	{
+		"abr": "<color=#00fff7>rasvacoule</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule"
+	},
+	{
+		"abr": "<color=#00fff7>regenerativeliver</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Liver_RegenerativeLiver"
+	},
+	{
+		"abr": "<color=#00fff7>reinforcedleg</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_ReinforcedLeg"
+	},
+	{
+		"abr": "<color=#00fff7>reinforcedneckmuscles</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles"
+	},
+	{
+		"abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell"
+	},
+	{
+		"abr": "<color=#00fff7>rendingclaw</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_RendingClaw"
+	},
+	{
+		"abr": "<color=#00fff7>reptilianfrontalcortex</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Brain_ReptilianFrontalCortex"
+	},
+	{
+		"abr": "<color=#00fff7>salamanderwhip</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_SalamanderWhip"
+	},
+	{
+		"abr": "<color=#00fff7>shimmeringskin</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skin_ShimmeringSkin"
+	},
+	{
+		"abr": "<color=#00fff7>shirehorseleg</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_ShireHorseLeg"
+	},
+	{
+		"abr": "<color=#00fff7>sonicimpactmace</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_SonicImpactMace"
+	},
+	{
+		"abr": "<color=#00fff7>tentaclecluster</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_TentacleCluster"
+	},
+	{
+		"abr": "<color=#00fff7>triplatedlimb</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_TriPlacedLimb"
+	},
+	{
+		"abr": "<color=#00fff7>triplefilterpasskidney</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Kidney_TripleFilterPassKidney"
+	},
+	{
+		"abr": "<color=#00fff7>triwovenprimaryheart</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Heart_TriwovenPrimaryHeart"
+	},
+	{
+		"abr": "<color=#00fff7>variableinsulationskin</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Protection_Skin_VariableInsulationSkin"
+	},
+	{
+		"abr": "<color=#00fff7>venomousfangs</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Jaw_VenomousFangs"
+	},
+	{
+		"abr": "<color=#00fff7>venomousstinger</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Tail_VenomousStinger"
+	},
+	{
+		"abr": "<color=#00fff7>venopillararm</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_VenopillarArm"
+	},
+	{
+		"abr": "<color=#00fff7>waterfilledgrowth</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Back_WaterFilledGrowth"
+	},
+	{
+		"abr": "<color=#00fff7>weigthedtail</color>",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Appendage_WeightedTail"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancednanokit",
+		"price": 125,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitAdvanced"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1333,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "android",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ChjAndroid"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 2250,
+		"category": "Items",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidchargingstation",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "ATPP_ReloadStation"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 675,
+		"category": "Production",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_ChJAndroid"
+	},
+	{
+		"abr": "androidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ChjAndroid"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPod"
+	},
+	{
+		"abr": "androidprinter",
+		"price": 7183,
+		"category": "Production",
+		"defname": "ChJAndroidPrinter"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5333,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechbio-reactor",
+		"price": 6667,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6667,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3667,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5833,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "archotechsmellingsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "ArchSmellingS"
+	},
+	{
+		"abr": "artificialbraint1",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_T1ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint2",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_T2ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint3",
+		"price": 833,
+		"category": "Android",
+		"defname": "ATPP_T3ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint4",
+		"price": 1667,
+		"category": "Android",
+		"defname": "ATPP_T4ArtificialBrain"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 1167,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicnanokit",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitBasic"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "battledress",
+		"price": 1458,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidBattleDress"
+	},
+	{
+		"abr": "battledroid",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "ChjBattleDroid"
+	},
+	{
+		"abr": "battledroidassemblykit",
+		"price": 3958,
+		"category": "Items",
+		"defname": "ChjAndroidBattleDroidAssemblyKit"
+	},
+	{
+		"abr": "battlemaidhat",
+		"price": 450,
+		"category": "Headgear",
+		"defname": "ChjAndroidBattleMaidHat"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "bone",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BoneItem"
+	},
+	{
+		"abr": "bonearmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "Sihv_Apparel_BoneArmor"
+	},
+	{
+		"abr": "boneash",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "BoneChina"
+	},
+	{
+		"abr": "bonechair",
+		"price": 322,
+		"category": "Furniture",
+		"defname": "BoneChair"
+	},
+	{
+		"abr": "bonemarrow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "ROMB_Marrow"
+	},
+	{
+		"abr": "bonecrete",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Bonecrete"
+	},
+	{
+		"abr": "calciumpolymer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BonePlastic"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "corelauncher",
+		"price": 2283,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChjCoreLauncher"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 667,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 667,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 667,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1167,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 667,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "crudesmellingsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "CrudeSmellingS"
+	},
+	{
+		"abr": "crystalcirclet",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "Apparel_CrystalCirclet"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3333,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9167,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "droid",
+		"price": 1417,
+		"category": "Animal",
+		"defname": "ChjDroid"
+	},
+	{
+		"abr": "droidassemblykit",
+		"price": 1775,
+		"category": "Items",
+		"defname": "ChjAndroidDroidAssemblyKit"
+	},
+	{
+		"abr": "droidbattery",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChjAndroidBattery"
+	},
+	{
+		"abr": "droidchemfuelgeneratorbelt",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "ChjAndroid_ChemfuelGenerator"
+	},
+	{
+		"abr": "droidfabricator",
+		"price": 1825,
+		"category": "Misc",
+		"defname": "ChJDroidPrinter"
+	},
+	{
+		"abr": "droidrepairkit",
+		"price": 367,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairKit"
+	},
+	{
+		"abr": "droidrepairparts",
+		"price": 28,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairParts"
+	},
+	{
+		"abr": "droidsolarpanelduster",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "ChjAndroid_SolarDuster"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1333,
+		"category": "Drugs",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "gelatin",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "ROMB_Gelatin"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "hibernationpad",
+		"price": 104,
+		"category": "Production",
+		"defname": "ChjDroidHibernationPad"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "i-100(hacking)",
+		"price": 1383,
+		"category": "Misc",
+		"defname": "ATPP_I100Hacking"
+	},
+	{
+		"abr": "i-100(security)",
+		"price": 1017,
+		"category": "Misc",
+		"defname": "ATPP_I100Security"
+	},
+	{
+		"abr": "i-100(skill)",
+		"price": 1383,
+		"category": "Misc",
+		"defname": "ATPP_I100Skill"
+	},
+	{
+		"abr": "i-300(hacking)",
+		"price": 2892,
+		"category": "Misc",
+		"defname": "ATPP_I300Hacking"
+	},
+	{
+		"abr": "i-300(security)",
+		"price": 2175,
+		"category": "Misc",
+		"defname": "ATPP_I300Security"
+	},
+	{
+		"abr": "i-300(skill)",
+		"price": 2892,
+		"category": "Misc",
+		"defname": "ATPP_I300Skill"
+	},
+	{
+		"abr": "i-500(hacking)",
+		"price": 5575,
+		"category": "Misc",
+		"defname": "ATPP_I500Hacking"
+	},
+	{
+		"abr": "i-500(security)",
+		"price": 4117,
+		"category": "Misc",
+		"defname": "ATPP_I500Security"
+	},
+	{
+		"abr": "i-500(skill)",
+		"price": 5575,
+		"category": "Misc",
+		"defname": "ATPP_I500Skill"
+	},
+	{
+		"abr": "intermediatenanokit",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitIntermediate"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 14167,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "m7pod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMech"
+	},
+	{
+		"abr": "m8mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M8Mech"
+	},
+	{
+		"abr": "maiddress",
+		"price": 517,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidOutfit"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm_AT"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animals",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "nanitesbank(cooling)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCoolingSerum"
+	},
+	{
+		"abr": "nanitesbank(cpu)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCPUSerum"
+	},
+	{
+		"abr": "nanitesbank(framework)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesFrameSerum"
+	},
+	{
+		"abr": "nanitesbank(hydraulic)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesHydraulicSerum"
+	},
+	{
+		"abr": "nanomechanites",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "EVOR_Resource_Mechanites"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "organgrowingworksbench",
+		"price": 5583,
+		"category": "Production",
+		"defname": "EVOR_Building_Cellbench"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1333,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2667,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "proteinslag",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "EVOR_Resource_Protein"
+	},
+	{
+		"abr": "quartzian",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "Quartz_Race"
+	},
+	{
+		"abr": "quartziancasing",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_Quartz"
+	},
+	{
+		"abr": "quartzianwarcrown",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_GrandCrystalCirclet"
+	},
+	{
+		"abr": "rebelpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_Rebelpistol"
+	},
+	{
+		"abr": "rebelrifle",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_RebelRifle"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "rxneuralchip",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_RXChip"
+	},
+	{
+		"abr": "skullmask",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROMB_Apparel_SkullMask"
+	},
+	{
+		"abr": "skullthrone",
+		"price": 1917,
+		"category": "Furniture",
+		"defname": "BoneThrone"
+	},
+	{
+		"abr": "skymindrelaytower",
+		"price": 767,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindRelayTower"
+	},
+	{
+		"abr": "skymindv1antenna",
+		"price": 1400,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindLAN"
+	},
+	{
+		"abr": "skymindv2antenna",
+		"price": 4967,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindWAN"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "t1android",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": 8000,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": 10000,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "thermalwrapping",
+		"price": 62,
+		"category": "Apparel",
+		"defname": "ChJAndroidThermalBandages"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
 		"abr": "trousers",
 		"price": 164,
 		"category": "Apparel",
@@ -6029,7 +7307,37 @@
 		"price": 143,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Tunic"
-	}
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "vx0neuralchip",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
+	{
+		"abr": "vx1neuralchip",
+		"price": 1333,
+		"category": "Android",
+		"defname": "ATPP_VX1Chip"
+	},
+	{
+		"abr": "vx2neuralchip",
+		"price": 3333,
+		"category": "Android",
+		"defname": "ATPP_VX2Chip"
+	},
 	],
-	"total": 1005
+	"total": 1225
 }

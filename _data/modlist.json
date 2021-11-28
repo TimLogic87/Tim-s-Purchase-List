@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -234,12 +234,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Robot Maid",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "lmgginspace",
     "name": "[lmgginspace] Repair bed",
     "steamId": null,
@@ -292,5 +286,83 @@
     "name": "Halo UNSC Weapon Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "AllyJamy",
+    "name": "Custom map: The Earth by AllyJamy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Traders Have Money",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.6"
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
+  },
+  {
+    "author": "Benji // Steam: Cute Twink",
+    "name": "Quartzian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "StatistNo1",
+    "name": "EvolvedOrgansRedux",
+    "steamId": "2424381146",
+    "version": "2.0.1"
+  },
+  {
+    "author": "Jdalt40",
+    "name": "No More Lethal Damage Threshold",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
   }
 ]
