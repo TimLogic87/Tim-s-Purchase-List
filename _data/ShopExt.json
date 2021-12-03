@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -3835,36 +3835,6 @@
     {
       "data": {
         "stats": [
-          "+110.00 Mass",
-          "+0% Flammability",
-          "+150% Psychic sensitivity",
-          "+28.8F Minimum comfortable temperature",
-          "+57.6F Maximum comfortable temperature",
-          "+$3500 Market value",
-          "+2.40 Move speed",
-          "+50 Meat amount",
-          "+50 Leather amount",
-          "+200 Carrying capacity",
-          "+250% Research speed",
-          "+400% Mining speed",
-          "+80% General labor speed",
-          "+70% Construct success chance",
-          "+50% Hunger rate multiplier",
-          "+70% Rest rate multiplier"
-        ],
-        "mod": "Quartzian Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of parasitic living crystals growning on human bodies.",
-      "defName": "Quartz_Race",
-      "enabled": true,
-      "name": "Quartzian",
-      "price": 5833
-    },
-    {
-      "data": {
-        "stats": [
           "+75.00 Mass",
           "+100% Flammability",
           "+$1500 Market value",
@@ -3955,185 +3925,29 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1650 Market value",
-          "+7.20 Move speed",
-          "-360.0F Minimum comfortable temperature",
-          "+540.0F Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-108.0F Minimum comfortable temperature",
+          "+360.0F Maximum comfortable temperature",
           "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+100% Global learning factor",
-          "+200% Smoothing speed",
-          "+133% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Androids Expanded",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.",
-      "defName": "ChjSpacerDroid",
-      "enabled": true,
-      "name": "Advanced droid",
-      "price": 2750
-    },
-    {
-      "data": {
-        "stats": [
-          "+75.00 Mass",
-          "+0% Flammability",
-          "+$3500 Market value",
-          "+7.20 Move speed",
-          "-1800.0F Minimum comfortable temperature",
-          "+1800.0F Maximum comfortable temperature",
           "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
           "+0 Meat amount",
-          "+50% Aiming time",
-          "-1.0 Melee dodge chance",
-          "+120.0% Armor - Sharp",
-          "+60.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Androids Expanded",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
-      "defName": "ChjSpacerBattleDroid",
-      "enabled": true,
-      "name": "Wardroid",
-      "price": 5833
-    },
-    {
-      "data": {
-        "stats": [
-          "+15.00 Mass",
-          "+25% Flammability",
-          "+$400 Market value",
-          "+4.80 Move speed",
-          "-153.0F Minimum comfortable temperature",
-          "+153.0F Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+150% Global work speed",
           "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
           "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+120% Construction speed",
-          "+133% Construct success chance",
-          "+115% Mining speed",
-          "+105% Mining yield"
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
         ],
-        "mod": "Androids Expanded",
+        "mod": "Zombieland",
         "karmaType": null,
         "customName": false
       },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.",
-      "defName": "NEngiDrone",
+      "description": "A zombie",
+      "defName": "Zombie",
       "enabled": true,
-      "name": "engineer",
-      "price": 667
-    },
-    {
-      "data": {
-        "stats": [
-          "+15.00 Mass",
-          "+25% Flammability",
-          "+$400 Market value",
-          "+4.80 Move speed",
-          "-153.0F Minimum comfortable temperature",
-          "+153.0F Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+150% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+125% Plant harvest yield",
-          "+100% Plant work speed",
-          "+40.00% Food poison chance"
-        ],
-        "mod": "Androids Expanded",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.",
-      "defName": "NChefDrone",
-      "enabled": true,
-      "name": "chef",
-      "price": 667
-    },
-    {
-      "data": {
-        "stats": [
-          "+15.00 Mass",
-          "+55% Flammability",
-          "+$660 Market value",
-          "+4.80 Move speed",
-          "-153.0F Minimum comfortable temperature",
-          "+153.0F Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+150% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+110% Medical surgery success chance",
-          "+110% Medical tend quality",
-          "+125% Medical operation speed",
-          "+125% Medical tend speed"
-        ],
-        "mod": "Androids Expanded",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.",
-      "defName": "NMedicDrone",
-      "enabled": true,
-      "name": "medic",
-      "price": 1100
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }
