@@ -240,12 +240,6 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
-  },
-  {
     "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -276,12 +270,6 @@
     "version": null
   },
   {
-    "author": "WexMan",
-    "name": "Mines",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "TheInfinityIQ",
     "name": "Halo UNSC Weapon Pack",
     "steamId": null,
@@ -306,12 +294,6 @@
     "version": null
   },
   {
-    "author": "Torann",
-    "name": "Rim War",
-    "steamId": "2222935097",
-    "version": "0.9.8.6"
-  },
-  {
     "author": "Sihv",
     "name": "Rim of Madness - Bones",
     "steamId": "1180573408",
@@ -322,12 +304,6 @@
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Atlas and  aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "3.0.0.3"
   },
   {
     "author": "Benji // Steam: Cute Twink",
@@ -360,9 +336,57 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.7.5"
+  },
+  {
+    "author": "PowerLunatic",
+    "name": "Rimoai",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bazoka81",
+    "name": "Primary Generators - lite",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "taranchuk",
+    "name": "Archotech++",
+    "steamId": "2496279558",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
   }
 ]
