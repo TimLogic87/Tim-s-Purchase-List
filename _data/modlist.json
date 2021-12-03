@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -96,12 +96,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Tribal",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
@@ -110,12 +104,6 @@
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
     "steamId": null,
     "version": null
   },
@@ -140,12 +128,6 @@
   {
     "author": "Oskar Potocki,  Luizi and  xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
   },
@@ -282,12 +264,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "AllyJamy",
-    "name": "Custom map: The Earth by AllyJamy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neceros",
     "name": "Traders Have Money",
     "steamId": null,
@@ -304,12 +280,6 @@
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Quartzian Race",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "ChJees",
@@ -348,24 +318,6 @@
     "version": null
   },
   {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Peptide",
-    "name": "Androids Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "bazoka81",
     "name": "Primary Generators - lite",
     "steamId": null,
@@ -378,15 +330,45 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Animation",
     "steamId": "2575938407",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.7"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paradox",
+    "name": "More Vanilla Turrets 1.1+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.6.0.0"
   }
 ]
