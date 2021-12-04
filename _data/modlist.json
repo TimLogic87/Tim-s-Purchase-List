@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -300,12 +300,6 @@
     "version": null
   },
   {
-    "author": "Cabbage",
-    "name": "RimCities",
-    "steamId": "1775170117",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -354,12 +348,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Realistic Darkness",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Paradox",
     "name": "More Vanilla Turrets 1.1+",
     "steamId": null,
@@ -370,5 +358,29 @@
     "name": "Zombieland",
     "steamId": "928376710",
     "version": "2.6.0.0"
+  },
+  {
+    "author": "Alias, Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
   }
 ]
