@@ -2749,12 +2749,6 @@
 		"defname": "VFE_AnimalFeeder"
 	},
 	{
-		"abr": "anti-materialrifle",
-		"price": 1717,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_AntiMaterialRifle"
-	},
-	{
 		"abr": "archotechsculpture",
 		"price": 5000,
 		"category": "Art",
@@ -2785,24 +2779,6 @@
 		"defname": "VAE_Headgear_Balaclava"
 	},
 	{
-		"abr": "baton",
-		"price": 206,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Baton"
-	},
-	{
-		"abr": "battleaxe",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_BattleAxe"
-	},
-	{
-		"abr": "battlerifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_BattleRifle"
-	},
-	{
 		"abr": "beartrap",
 		"price": 236,
 		"category": "Security",
@@ -2821,12 +2797,6 @@
 		"defname": "VAE_Apparel_BulletproofVest"
 	},
 	{
-		"abr": "carbine",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Carbine"
-	},
-	{
 		"abr": "carving",
 		"price": 342,
 		"category": "Art",
@@ -2837,48 +2807,6 @@
 		"price": 417,
 		"category": "Armor",
 		"defname": "VAE_Apparel_Chainmail"
-	},
-	{
-		"abr": "chargelmg",
-		"price": 2833,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeLMG"
-	},
-	{
-		"abr": "chargeminigun",
-		"price": 5458,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeMinigun"
-	},
-	{
-		"abr": "chargepistol",
-		"price": 1008,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargePistol"
-	},
-	{
-		"abr": "chargerocketlauncher",
-		"price": 11667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeRocketLauncher"
-	},
-	{
-		"abr": "chargeshotgun",
-		"price": 1683,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeShotgun"
-	},
-	{
-		"abr": "chargesmg",
-		"price": 1508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeSMG"
-	},
-	{
-		"abr": "chargesniperrifle",
-		"price": 2050,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ChargeSniperRifle"
 	},
 	{
 		"abr": "chargeturret",
@@ -2897,36 +2825,6 @@
 		"price": 383,
 		"category": "Armor",
 		"defname": "VAE_Apparel_Chestplate"
-	},
-	{
-		"abr": "cleaver",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Cleaver"
-	},
-	{
-		"abr": "combathandgun",
-		"price": 291,
-		"category": "Ranged weapons",
-		"defname": "VWE_CombatHandgun"
-	},
-	{
-		"abr": "combatknife",
-		"price": 205,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_CombatKnife"
-	},
-	{
-		"abr": "compoundbow",
-		"price": 240,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Compound"
-	},
-	{
-		"abr": "crossbow",
-		"price": 358,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Crossbow"
 	},
 	{
 		"abr": "cryptosleepsuspender",
@@ -2989,12 +2887,6 @@
 		"defname": "VFE_FabricationCabinet"
 	},
 	{
-		"abr": "fireextinguisher",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_FireExtinguisher"
-	},
-	{
 		"abr": "flakgoggles",
 		"price": 172,
 		"category": "Headgear",
@@ -3005,30 +2897,6 @@
 		"price": 958,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
-	},
-	{
-		"abr": "flamethrower",
-		"price": 667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Flamethrower"
-	},
-	{
-		"abr": "flashgrenades",
-		"price": 525,
-		"category": "Grenades",
-		"defname": "VWE_FlashGrenade"
-	},
-	{
-		"abr": "flintlock",
-		"price": 275,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Flintlock"
-	},
-	{
-		"abr": "frontierpistol",
-		"price": 318,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_FrontierPistol"
 	},
 	{
 		"abr": "fueledsmelter",
@@ -3053,18 +2921,6 @@
 		"price": 817,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_GaussMagnum"
-	},
-	{
-		"abr": "gaussrepeater",
-		"price": 1500,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_GaussRepeater"
-	},
-	{
-		"abr": "gaussrevolver",
-		"price": 908,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_GaussRevolver"
 	},
 	{
 		"abr": "gaussrifle",
@@ -3097,46 +2953,10 @@
 		"defname": "VFE_StatueGrand"
 	},
 	{
-		"abr": "grenadelauncher",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_GrenadeLauncher"
-	},
-	{
-		"abr": "halberd",
-		"price": 483,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Halberd"
-	},
-	{
-		"abr": "hammer",
-		"price": 281,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Hammer"
-	},
-	{
-		"abr": "handcannon",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HandCannon"
-	},
-	{
-		"abr": "handheldgatlinggun",
-		"price": 1650,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_HandheldGatlingGun"
-	},
-	{
 		"abr": "handheldmortar",
 		"price": 842,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HandheldMortar"
-	},
-	{
-		"abr": "hatchet",
-		"price": 147,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Axe"
 	},
 	{
 		"abr": "hazmathood",
@@ -3155,18 +2975,6 @@
 		"price": 750,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HeavyFlamer"
-	},
-	{
-		"abr": "heavyrevolver",
-		"price": 375,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_HeavyRevolver"
-	},
-	{
-		"abr": "hmg",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HMG"
 	},
 	{
 		"abr": "hologrambase",
@@ -3271,28 +3079,10 @@
 		"defname": "VWEL_LaserSword"
 	},
 	{
-		"abr": "lever-actionrifle",
-		"price": 408,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_LeverActionRifle"
-	},
-	{
 		"abr": "lightplatearmor",
 		"price": 542,
 		"category": "Armor",
 		"defname": "VAE_Apparel_LightPlateArmor"
-	},
-	{
-		"abr": "lightsmg",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_LightSMG"
-	},
-	{
-		"abr": "longbow",
-		"price": 197,
-		"category": "Ranged weapons",
-		"defname": "VWE_Bow_Long"
 	},
 	{
 		"abr": "machiningcabinet",
@@ -3313,12 +3103,6 @@
 		"defname": "VAE_Handwear_MarineGloves"
 	},
 	{
-		"abr": "marksmanrifle",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MarksmanRifle"
-	},
-	{
 		"abr": "militaryturret",
 		"price": 842,
 		"category": "Security",
@@ -3329,12 +3113,6 @@
 		"price": 2100,
 		"category": "Art",
 		"defname": "VFE_Monument"
-	},
-	{
-		"abr": "musket",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Musket"
 	},
 	{
 		"abr": "obelisk",
@@ -3359,12 +3137,6 @@
 		"price": 184,
 		"category": "Furniture",
 		"defname": "Spacer_OutdoorLamp"
-	},
-	{
-		"abr": "pickaxe",
-		"price": 248,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Pickaxe"
 	},
 	{
 		"abr": "pillar",
@@ -3433,46 +3205,10 @@
 		"defname": "Shelf_RepairRack"
 	},
 	{
-		"abr": "repeatingshotgun",
-		"price": 550,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_RepeatingShotgun"
-	},
-	{
-		"abr": "rocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_RocketLauncher"
-	},
-	{
-		"abr": "rollingblockrifle",
-		"price": 608,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_RollingBlockRifle"
-	},
-	{
-		"abr": "salvagedlaserhuntingrifle",
-		"price": 3833,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_SalvagedLaserHuntingRifle"
-	},
-	{
 		"abr": "salvagedlaserpistol",
 		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserPistol"
-	},
-	{
-		"abr": "salvagedlaserrepeater",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_SalvagedLaserRepeater"
-	},
-	{
-		"abr": "salvagedlaserrevolver",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_SalvagedLaserRevolver"
 	},
 	{
 		"abr": "salvagedlaserrifle",
@@ -3493,18 +3229,6 @@
 		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
 	},
 	{
-		"abr": "sawed-offshotgun",
-		"price": 297,
-		"category": "Ranged weapons",
-		"defname": "VWE_SawedOffShotgun"
-	},
-	{
-		"abr": "scalpel",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Scalpel"
-	},
-	{
 		"abr": "scarecrow",
 		"price": 129,
 		"category": "Misc",
@@ -3517,28 +3241,10 @@
 		"defname": "VFES_Turret_Searchlight"
 	},
 	{
-		"abr": "semi-automaticrifle",
-		"price": 408,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_SemiAutomaticRifle"
-	},
-	{
 		"abr": "sentrygun",
 		"price": 1058,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "servicerifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_ServiceRifle"
-	},
-	{
-		"abr": "shovel",
-		"price": 327,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Shovel"
 	},
 	{
 		"abr": "siegebreakerarmor",
@@ -3571,22 +3277,10 @@
 		"defname": "VFE_StatueSmall"
 	},
 	{
-		"abr": "smg",
-		"price": 558,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_SMG"
-	},
-	{
 		"abr": "smithingcabinet",
 		"price": 483,
 		"category": "Misc",
 		"defname": "VFE_SmithyCabinet"
-	},
-	{
-		"abr": "smokegrenades",
-		"price": 215,
-		"category": "Grenades",
-		"defname": "VWE_SmokeGrenade"
 	},
 	{
 		"abr": "spacerlamp",
@@ -3625,24 +3319,6 @@
 		"defname": "VWEL_Gun_TeslaGun"
 	},
 	{
-		"abr": "throwingknives",
-		"price": 161,
-		"category": "Ranged weapons",
-		"defname": "VWE_Throwing_Knives"
-	},
-	{
-		"abr": "throwingrocks",
-		"price": 11,
-		"category": "Ranged weapons",
-		"defname": "VWE_Throwing_Rocks"
-	},
-	{
-		"abr": "toxicgrenades",
-		"price": 1417,
-		"category": "Grenades",
-		"defname": "VWE_ToxicGrenade"
-	},
-	{
 		"abr": "trooperarmor",
 		"price": 1917,
 		"category": "Armor",
@@ -3673,28 +3349,10 @@
 		"defname": "Facility_VitalsCentre"
 	},
 	{
-		"abr": "volcanicpistol",
-		"price": 350,
-		"category": "Ranged weapons",
-		"defname": "VWEFT_Gun_VolcanicPistol"
-	},
-	{
-		"abr": "whip",
-		"price": 203,
-		"category": "Ranged weapons",
-		"defname": "VWE_Tool_Whip"
-	},
-	{
 		"abr": "woodenarmor",
 		"price": 300,
 		"category": "Armor",
 		"defname": "VAE_Apparel_WoodenArmor"
-	},
-	{
-		"abr": "wrench",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Wrench"
 	},
 	{
 		"abr": "acanthamoebagigantea,huge",
@@ -4169,12 +3827,6 @@
 		"price": 2,
 		"category": "Meals",
 		"defname": "AA_DisgustingMealNutrientPaste"
-	},
-	{
-		"abr": "doublerepairbed",
-		"price": 8150,
-		"category": "Furniture",
-		"defname": "LMGG_Thing_RepairDoubleBed"
 	},
 	{
 		"abr": "drainer",
@@ -4700,7 +4352,7 @@
 	},
 	{
 		"abr": "mime",
-		"price": 1667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "AA_Mime"
 	},
@@ -5021,12 +4673,6 @@
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "AA_SkySteel"
-	},
-	{
-		"abr": "repairbed",
-		"price": 4850,
-		"category": "Furniture",
-		"defname": "LMGG_Thing_RepairBed"
 	},
 	{
 		"abr": "slugmeat",
@@ -5954,7 +5600,7 @@
 	},
 	{
 		"abr": "bumbledronejelly",
-		"price": 1,
+		"price": 1750,
 		"category": "Vegetarian",
 		"defname": "AB_BumbledroneFood"
 	},
@@ -6325,30 +5971,6 @@
 		"defname": "SNS_Drug_Combat_II"
 	},
 	{
-		"abr": "adaptivedrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Adaptive_Drone"
-	},
-	{
-		"abr": "adaptivehoney",
-		"price": 3,
-		"category": "Bee honeys",
-		"defname": "RB_AdaptiveHoney"
-	},
-	{
-		"abr": "adaptivehoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Adaptive_Honeycomb"
-	},
-	{
-		"abr": "adaptivequeen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Adaptive_Queen"
-	},
-	{
 		"abr": "advancedbillardstable",
 		"price": 12825,
 		"category": "Furniture",
@@ -6368,7 +5990,7 @@
 	},
 	{
 		"abr": "advancedgiga-television",
-		"price": 117775,
+		"price": 70000,
 		"category": "Recreation",
 		"defname": "SNS_Television_GenII"
 	},
@@ -6385,106 +6007,16 @@
 		"defname": "SNS_PokerTable"
 	},
 	{
-		"abr": "advancedresearchbench",
-		"price": 1208,
-		"category": "Production",
-		"defname": "DankPyon_AdvancedResearchBench"
-	},
-	{
 		"abr": "aegis",
 		"price": 40,
 		"category": "Drugs",
 		"defname": "SNS_Aegis"
 	},
 	{
-		"abr": "aerodrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Aero_Drone"
-	},
-	{
-		"abr": "aerohoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Aero_Honeycomb"
-	},
-	{
-		"abr": "aeroqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Aero_Queen"
-	},
-	{
 		"abr": "aeterno",
 		"price": 333,
 		"category": "Drugs",
 		"defname": "SNS_Aeterno"
-	},
-	{
-		"abr": "agriculturaldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Agricultural_Drone"
-	},
-	{
-		"abr": "agriculturalhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Agricultural_Honeycomb"
-	},
-	{
-		"abr": "agriculturalqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Agricultural_Queen"
-	},
-	{
-		"abr": "ale",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "DankPyon_Ale"
-	},
-	{
-		"abr": "alewort",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "DankPyon_WortAle"
-	},
-	{
-		"abr": "alloydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Alloy_Drone"
-	},
-	{
-		"abr": "alloyhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Alloy_Honeycomb"
-	},
-	{
-		"abr": "alloyqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Alloy_Queen"
-	},
-	{
-		"abr": "amalgamdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Amalgam_Drone"
-	},
-	{
-		"abr": "amalgamhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Amalgam_Honeycomb"
-	},
-	{
-		"abr": "amalgamqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Amalgam_Queen"
 	},
 	{
 		"abr": "ambition'srefuter(abyssalcomponent#4/5)",
@@ -6499,64 +6031,16 @@
 		"defname": "SNS_CosmicCall_Component_V"
 	},
 	{
-		"abr": "ancientwood",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "DankPyon_AncientWoodLog"
-	},
-	{
 		"abr": "antenna",
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_Antenna"
 	},
 	{
-		"abr": "anvil",
-		"price": 179,
-		"category": "Production",
-		"defname": "DankPyon_Anvil"
-	},
-	{
 		"abr": "apiary",
 		"price": 318,
 		"category": "Misc",
 		"defname": "VFEV_Apiary"
-	},
-	{
-		"abr": "applejuice",
-		"price": 8,
-		"category": "Non-alcoholic",
-		"defname": "DankPyon_JuiceApple"
-	},
-	{
-		"abr": "applemince",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "DankPyon_MincedApple"
-	},
-	{
-		"abr": "applepie",
-		"price": 40,
-		"category": "Meals",
-		"defname": "DankPyon_MealApplePie"
-	},
-	{
-		"abr": "apples",
-		"price": 3,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawApples"
-	},
-	{
-		"abr": "arbalest",
-		"price": 278,
-		"category": "Ranged weapons",
-		"defname": "DankPyon_CrossbowHeavy"
-	},
-	{
-		"abr": "archerytarget",
-		"price": 41,
-		"category": "Recreation",
-		"defname": "VFEM_ArcheryTarget"
 	},
 	{
 		"abr": "archotecheraser",
@@ -6577,94 +6061,10 @@
 		"defname": "VFEI_Artifacts_ArchotechTeleporter"
 	},
 	{
-		"abr": "arcticdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Arctic_Drone"
-	},
-	{
-		"abr": "arctichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Arctic_Honeycomb"
-	},
-	{
-		"abr": "arcticqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Arctic_Queen"
-	},
-	{
-		"abr": "arcticwolfrug(2x2)",
-		"price": 154,
-		"category": "Furniture",
-		"defname": "DankPyon_RugWolfArctic2x2c"
-	},
-	{
-		"abr": "argentdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Argent_Drone"
-	},
-	{
-		"abr": "argenthoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Argent_Honeycomb"
-	},
-	{
-		"abr": "argentqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Argent_Queen"
-	},
-	{
-		"abr": "armet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_Armet"
-	},
-	{
-		"abr": "armingcap",
-		"price": 76,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ArmingCap"
-	},
-	{
-		"abr": "armingsword",
-		"price": 287,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_ArmingSword"
-	},
-	{
 		"abr": "ascendance",
 		"price": 2500,
 		"category": "Drugs",
 		"defname": "SNS_Drug_Combat_III"
-	},
-	{
-		"abr": "aurumdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Aurum_Drone"
-	},
-	{
-		"abr": "aurumhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Aurum_Honeycomb"
-	},
-	{
-		"abr": "aurumqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Aurum_Queen"
-	},
-	{
-		"abr": "ballistabolts",
-		"price": 8,
-		"category": "Manufactured",
-		"defname": "DankPyon_BallistaBolt"
 	},
 	{
 		"abr": "bandana",
@@ -6677,24 +6077,6 @@
 		"price": 69,
 		"category": "Furniture",
 		"defname": "StoolBar"
-	},
-	{
-		"abr": "barber'stable",
-		"price": 328,
-		"category": "Misc",
-		"defname": "VHE_TableBarber"
-	},
-	{
-		"abr": "bardiche",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Bardiche"
-	},
-	{
-		"abr": "basiccomponent",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "DankPyon_ComponentBasic"
 	},
 	{
 		"abr": "bearheaddress",
@@ -6715,304 +6097,10 @@
 		"defname": "SNS_CosmicCall_Component_III"
 	},
 	{
-		"abr": "bed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "RGK_bedSingle"
-	},
-	{
-		"abr": "bed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleB"
-	},
-	{
-		"abr": "beeeggs",
-		"price": 12,
-		"category": "Eggs (unfert.)",
-		"defname": "RB_BeeEggs"
-	},
-	{
-		"abr": "beemilk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "RB_BeeMilk"
-	},
-	{
-		"abr": "beeresearch(unfinished)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_RandomAlphaResearch"
-	},
-	{
-		"abr": "beeresearch(unfinished)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_RandomTier4Research"
-	},
-	{
-		"abr": "beeresearch(unfinished)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_RandomTier5Research"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAgriElec"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAlloyPrec"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersArcticLactic"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersInsectoidDesert"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersNeutroWood"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersNoctInsectoid"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersNoctTanner"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersRadiWood"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersSwampDesert"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersSwampNutri"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersSwampWeaving"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersWoolyTanner"
-	},
-	{
-		"abr": "beeresearchpapers(alpha)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersWoodlandOily"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersNutTech"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersNutAdapt"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAdaptTech"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersStoPsy"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAgriSwamp"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersPlasAlloy"
-	},
-	{
-		"abr": "beeresearchpapers(tier4)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAgriWood"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersAgriCul"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersLuxHigh"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersMedTech"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersSynthTech"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersSynthOily"
-	},
-	{
-		"abr": "beeresearchpapers(tier5)",
-		"price": 83,
-		"category": "Bee research",
-		"defname": "RB_ResearchPapersElectronicSynthetic"
-	},
-	{
-		"abr": "beeswax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_Beeswax"
-	},
-	{
-		"abr": "bellows",
-		"price": 358,
-		"category": "Misc",
-		"defname": "DankPyon_Bellows"
-	},
-	{
-		"abr": "bench",
-		"price": 358,
-		"category": "Furniture",
-		"defname": "GL_Bench"
-	},
-	{
-		"abr": "billhook",
-		"price": 323,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Billhook"
-	},
-	{
-		"abr": "biointerfacecomponents",
-		"price": 58,
-		"category": "Manufactured",
-		"defname": "RB_ComponentBioInterface"
-	},
-	{
 		"abr": "bio-engineeringincubator",
 		"price": 1067,
 		"category": "Furniture",
 		"defname": "VFEI_BioengineeringIncubator"
-	},
-	{
-		"abr": "birdpost",
-		"price": 130,
-		"category": "Misc",
-		"defname": "DankPyon_BirdPost"
-	},
-	{
-		"abr": "birdskin",
-		"price": 45,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BirdTiny"
-	},
-	{
-		"abr": "birdskin",
-		"price": 60,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BirdSmall"
-	},
-	{
-		"abr": "birdskin",
-		"price": 75,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BirdMedium"
-	},
-	{
-		"abr": "birdskin",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BirdLarge"
-	},
-	{
-		"abr": "birdskin",
-		"price": 180,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BirdHuge"
-	},
-	{
-		"abr": "bittersweetdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Bittersweet_Drone"
-	},
-	{
-		"abr": "bittersweethoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Bittersweet_Honeycomb"
-	},
-	{
-		"abr": "bittersweetqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Bittersweet_Queen"
-	},
-	{
-		"abr": "blackbeeswax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_BlackBeeswax"
-	},
-	{
-		"abr": "blackdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Black_Drone"
 	},
 	{
 		"abr": "blackhivegeneticmaterial",
@@ -7021,274 +6109,10 @@
 		"defname": "VFEI_BlackHiveGenome"
 	},
 	{
-		"abr": "blackhoney",
-		"price": 3,
-		"category": "Bee honeys",
-		"defname": "RB_BlackHoney"
-	},
-	{
-		"abr": "blackhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Black_Honeycomb"
-	},
-	{
-		"abr": "blackqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Black_Queen"
-	},
-	{
-		"abr": "bludgeon",
-		"price": 163,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Bludgeon"
-	},
-	{
-		"abr": "bluebeeswax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_BlueBeeswax"
-	},
-	{
-		"abr": "bluehoney",
-		"price": 3,
-		"category": "Bee honeys",
-		"defname": "RB_BlueHoney"
-	},
-	{
-		"abr": "boarspear",
-		"price": 203,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_BoarSpear"
-	},
-	{
-		"abr": "boiledbeansandonion",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_MealBoiledBeansAndOnion"
-	},
-	{
-		"abr": "bone",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "DankPyon_Bone"
-	},
-	{
-		"abr": "bonesoup",
-		"price": 8,
-		"category": "Meals",
-		"defname": "DankPyon_MealBoneSoup"
-	},
-	{
-		"abr": "bonfire",
-		"price": 417,
-		"category": "Furniture",
-		"defname": "GL_Bonfire"
-	},
-	{
-		"abr": "bookshelf",
-		"price": 908,
-		"category": "Misc",
-		"defname": "GL_Bookshelf"
-	},
-	{
-		"abr": "bookshelf",
-		"price": 312,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticBookshelf"
-	},
-	{
 		"abr": "boost",
 		"price": 200,
 		"category": "Drugs",
 		"defname": "SNS_Drug_Combat_I"
-	},
-	{
-		"abr": "boots",
-		"price": 173,
-		"category": "Footwear",
-		"defname": "DankPyon_Footwear_BootsLeather"
-	},
-	{
-		"abr": "bowl",
-		"price": 104,
-		"category": "Furniture",
-		"defname": "RGK_DogBowl"
-	},
-	{
-		"abr": "bread",
-		"price": 15,
-		"category": "Meals",
-		"defname": "DankPyon_MealBread"
-	},
-	{
-		"abr": "breadsoup",
-		"price": 33,
-		"category": "Meals",
-		"defname": "DankPyon_MealBreadSoup"
-	},
-	{
-		"abr": "breastplate",
-		"price": 733,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Breast_Plate"
-	},
-	{
-		"abr": "brigandine",
-		"price": 792,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Brigandine"
-	},
-	{
-		"abr": "brittlebeeswax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_Brittlewax"
-	},
-	{
-		"abr": "bucket",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "RGK_bucketr"
-	},
-	{
-		"abr": "butchertable",
-		"price": 279,
-		"category": "Production",
-		"defname": "GL_TableButcher"
-	},
-	{
-		"abr": "butcher'sblock",
-		"price": 109,
-		"category": "Production",
-		"defname": "DankPyon_ButchersBlock"
-	},
-	{
-		"abr": "cabbages",
-		"price": 6,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawCabbages"
-	},
-	{
-		"abr": "cactusdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Cactus_Drone"
-	},
-	{
-		"abr": "cactushoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Cactus_Honeycomb"
-	},
-	{
-		"abr": "cactusqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Cactus_Queen"
-	},
-	{
-		"abr": "candle",
-		"price": 1,
-		"category": "Furniture",
-		"defname": "VFEM_Candle"
-	},
-	{
-		"abr": "candle",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "RB_WaxCandle"
-	},
-	{
-		"abr": "candlestand",
-		"price": 99,
-		"category": "Furniture",
-		"defname": "DankPyon_CandleStand"
-	},
-	{
-		"abr": "candles",
-		"price": 14,
-		"category": "Furniture",
-		"defname": "DankPyon_Candles"
-	},
-	{
-		"abr": "carrots",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawCarrots"
-	},
-	{
-		"abr": "chainclosedflattop",
-		"price": 308,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainClosedFlatTop"
-	},
-	{
-		"abr": "chaincoif",
-		"price": 173,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainCoif"
-	},
-	{
-		"abr": "chainflattop",
-		"price": 271,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_Chain_FlatTop"
-	},
-	{
-		"abr": "chainkettle",
-		"price": 271,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainKettle"
-	},
-	{
-		"abr": "chainnasalhelm",
-		"price": 271,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainNasalHelm"
-	},
-	{
-		"abr": "chainnasalhelmred",
-		"price": 271,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainNasalHelmRed"
-	},
-	{
-		"abr": "chair",
-		"price": 180,
-		"category": "Furniture",
-		"defname": "RGK_Chair"
-	},
-	{
-		"abr": "cheese",
-		"price": 17,
-		"category": "Meals",
-		"defname": "DankPyon_MealCheese"
-	},
-	{
-		"abr": "cheesesoup",
-		"price": 87,
-		"category": "Meals",
-		"defname": "DankPyon_MealCheeseSoup"
-	},
-	{
-		"abr": "chefdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Chef_Drone"
-	},
-	{
-		"abr": "chefhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Chef_Honeycomb"
-	},
-	{
-		"abr": "chefqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Chef_Queen"
 	},
 	{
 		"abr": "chemboiler",
@@ -7321,22 +6145,10 @@
 		"defname": "Building_ChemshineBarrel"
 	},
 	{
-		"abr": "chest",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticChest"
-	},
-	{
 		"abr": "chitin",
 		"price": 10,
 		"category": "Raw resources",
 		"defname": "VFEI_Chitin"
-	},
-	{
-		"abr": "cider",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "DankPyon_Cider"
 	},
 	{
 		"abr": "circulartable",
@@ -7345,166 +6157,10 @@
 		"defname": "TableCircular"
 	},
 	{
-		"abr": "claasicrug(3x3)",
-		"price": 304,
-		"category": "Furniture",
-		"defname": "RugA_Small"
-	},
-	{
-		"abr": "claasicrug(3x3)",
-		"price": 304,
-		"category": "Furniture",
-		"defname": "RugB_Small"
-	},
-	{
-		"abr": "claasicrug(3x3)",
-		"price": 304,
-		"category": "Furniture",
-		"defname": "RugC_Small"
-	},
-	{
-		"abr": "claasicrug(4x4)",
-		"price": 400,
-		"category": "Furniture",
-		"defname": "RugA"
-	},
-	{
-		"abr": "claasicrug(4x4)",
-		"price": 400,
-		"category": "Furniture",
-		"defname": "RugB"
-	},
-	{
-		"abr": "claasicrug(4x4)",
-		"price": 400,
-		"category": "Furniture",
-		"defname": "RugC"
-	},
-	{
-		"abr": "claasicrug(5x5",
-		"price": 500,
-		"category": "Furniture",
-		"defname": "RugB_Large"
-	},
-	{
-		"abr": "claasicrug(5x5",
-		"price": 500,
-		"category": "Furniture",
-		"defname": "RugC_Large"
-	},
-	{
-		"abr": "claasicrug(5x5)",
-		"price": 500,
-		"category": "Furniture",
-		"defname": "RugA_Large"
-	},
-	{
-		"abr": "classictable(2x1)",
-		"price": 367,
-		"category": "Furniture",
-		"defname": "RGK_TableE"
-	},
-	{
-		"abr": "classictable(2x2)",
-		"price": 392,
-		"category": "Furniture",
-		"defname": "RGK_TableB"
-	},
-	{
-		"abr": "classictable(2x2)",
-		"price": 392,
-		"category": "Furniture",
-		"defname": "RGK_TableD"
-	},
-	{
-		"abr": "classictable(2x2)",
-		"price": 692,
-		"category": "Furniture",
-		"defname": "RGK_TableG"
-	},
-	{
-		"abr": "classictable(3x2)",
-		"price": 650,
-		"category": "Furniture",
-		"defname": "RGK_TableF"
-	},
-	{
-		"abr": "classictable(3x3)",
-		"price": 850,
-		"category": "Furniture",
-		"defname": "RGK_TableH"
-	},
-	{
-		"abr": "classydoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "GL_ClassyDoubleBed"
-	},
-	{
-		"abr": "claymore",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "VFEM_MeleeWeapon_Claymore"
-	},
-	{
-		"abr": "closedbascinethelmet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ClosedBascinetHelmet"
-	},
-	{
-		"abr": "closedchaincoif",
-		"price": 204,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainCoifClosed"
-	},
-	{
-		"abr": "closedklappvisierhelmet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed"
-	},
-	{
-		"abr": "closet",
-		"price": 212,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticCloset"
-	},
-	{
-		"abr": "coalchunks",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "DankPyon_Coal"
-	},
-	{
-		"abr": "coatofplates",
-		"price": 650,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_CoatOfPlates"
-	},
-	{
-		"abr": "coif",
-		"price": 97,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_coif"
-	},
-	{
 		"abr": "compoundeye",
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_CompoundEye"
-	},
-	{
-		"abr": "cookingtable",
-		"price": 199,
-		"category": "Production",
-		"defname": "DankPyon_RusticCookingTable"
-	},
-	{
-		"abr": "cookingtools",
-		"price": 633,
-		"category": "Misc",
-		"defname": "DankPyon_RusticCookingTools"
 	},
 	{
 		"abr": "cosmiccomputer",
@@ -7519,34 +6175,10 @@
 		"defname": "SNS_Telescope_GenIII"
 	},
 	{
-		"abr": "cotton",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "DankPyon_RawCotton"
-	},
-	{
-		"abr": "cougarrug(2x2)",
-		"price": 190,
-		"category": "Furniture",
-		"defname": "DankPyon_RugCougar2x2c"
-	},
-	{
 		"abr": "cowwool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "VFEV_WoolCow"
-	},
-	{
-		"abr": "crossbow",
-		"price": 234,
-		"category": "Ranged weapons",
-		"defname": "DankPyon_Crossbow"
-	},
-	{
-		"abr": "crusader'sgreathelm",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_CrusaderGreatHelm"
 	},
 	{
 		"abr": "cryptoarmor",
@@ -7603,36 +6235,6 @@
 		"defname": "VFEV_Shield_Crypto"
 	},
 	{
-		"abr": "culinarydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Culinary_Drone"
-	},
-	{
-		"abr": "culinaryhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Culinary_Honeycomb"
-	},
-	{
-		"abr": "culinaryqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Culinary_Queen"
-	},
-	{
-		"abr": "cupanddice",
-		"price": 275,
-		"category": "Furniture",
-		"defname": "Dankpyon_CupAndDice"
-	},
-	{
-		"abr": "cupboard",
-		"price": 417,
-		"category": "Misc",
-		"defname": "GL_Cupboard"
-	},
-	{
 		"abr": "curseofeternity",
 		"price": 70000,
 		"category": "Medicine",
@@ -7651,28 +6253,10 @@
 		"defname": "SNS_Apparel_FirstCycleHelmet"
 	},
 	{
-		"abr": "damedress",
-		"price": 259,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_DameDress"
-	},
-	{
-		"abr": "damehat",
-		"price": 127,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_DameHat"
-	},
-	{
 		"abr": "daneaxe",
 		"price": 450,
 		"category": "Melee weapons",
 		"defname": "VFE_MeleeWeapon_DaneAxe"
-	},
-	{
-		"abr": "darkwood",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "DankPyon_DarkWoodLog"
 	},
 	{
 		"abr": "decadentmeal",
@@ -7681,94 +6265,10 @@
 		"defname": "SNS_Meal_Normal_GenII"
 	},
 	{
-		"abr": "desertdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Desert_Drone"
-	},
-	{
-		"abr": "deserthoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Desert_Honeycomb"
-	},
-	{
-		"abr": "desertqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Desert_Queen"
-	},
-	{
-		"abr": "devildrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Devil_Drone"
-	},
-	{
-		"abr": "devilhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Devil_Honeycomb"
-	},
-	{
-		"abr": "devilqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Devil_Queen"
-	},
-	{
-		"abr": "diningchair",
-		"price": 192,
-		"category": "Furniture",
-		"defname": "RGKDiningChair"
-	},
-	{
-		"abr": "direwolf",
-		"price": 750,
-		"category": "Animals",
-		"defname": "DankPyon_Direwolf"
-	},
-	{
-		"abr": "direwolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_DankPyon_Direwolf"
-	},
-	{
-		"abr": "doublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDouble"
-	},
-	{
-		"abr": "doublebed2",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleB"
-	},
-	{
 		"abr": "doublefurbed",
 		"price": 350,
 		"category": "Furniture",
 		"defname": "VFEV_DoubleFurBed"
-	},
-	{
-		"abr": "doublefurbed",
-		"price": 279,
-		"category": "Furniture",
-		"defname": "DankPyon_BedFurDouble"
-	},
-	{
-		"abr": "doublestrawbed",
-		"price": 326,
-		"category": "Furniture",
-		"defname": "DankPyon_StrawBedDouble"
-	},
-	{
-		"abr": "doublewickerbed",
-		"price": 289,
-		"category": "Furniture",
-		"defname": "DankPyon_BedWickerDouble"
 	},
 	{
 		"abr": "double-actionrevolver",
@@ -7783,124 +6283,16 @@
 		"defname": "VFES_Gun_DoubleBarreledShotgun"
 	},
 	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "RGK_Dresser"
-	},
-	{
-		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticDresser"
-	},
-	{
-		"abr": "driedmeat",
-		"price": 22,
-		"category": "Meals",
-		"defname": "DankPyon_DriedMeat"
-	},
-	{
 		"abr": "dronegeneticmaterial",
 		"price": 167,
 		"category": "Manufactured",
 		"defname": "VFEI_DroneGenome"
 	},
 	{
-		"abr": "dryadwood",
-		"price": 7,
-		"category": "Raw resources",
-		"defname": "DankPyon_DryadWoodLog"
-	},
-	{
 		"abr": "dynamite",
 		"price": 658,
 		"category": "Grenades",
 		"defname": "VFES_Weapon_GrenadeDynamite"
-	},
-	{
-		"abr": "egglayingdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Egglaying_Drone"
-	},
-	{
-		"abr": "egglayinghoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Egglaying_Honeycomb"
-	},
-	{
-		"abr": "egglayingqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Egglaying_Queen"
-	},
-	{
-		"abr": "electricsmithy",
-		"price": 533,
-		"category": "Production",
-		"defname": "GL_ElectricSmithy"
-	},
-	{
-		"abr": "electricstove",
-		"price": 383,
-		"category": "Production",
-		"defname": "GL_ElectricStove"
-	},
-	{
-		"abr": "electrictailorbench",
-		"price": 542,
-		"category": "Production",
-		"defname": "GL_ElectricTailoringBench"
-	},
-	{
-		"abr": "electronicdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Electronic_Drone"
-	},
-	{
-		"abr": "electronichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Electronic_Honeycomb"
-	},
-	{
-		"abr": "electronicqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Electronic_Queen"
-	},
-	{
-		"abr": "elvenwood",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "DankPyon_ElvenWoodLog"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "RGK_EndTable"
-	},
-	{
-		"abr": "endtable",
-		"price": 138,
-		"category": "Furniture",
-		"defname": "RGK_EndTableWithLamp"
-	},
-	{
-		"abr": "endtable",
-		"price": 185,
-		"category": "Furniture",
-		"defname": "RGK_EndTableWithLampE"
-	},
-	{
-		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticEndTable"
 	},
 	{
 		"abr": "enigmaticbionicforge",
@@ -7922,27 +6314,9 @@
 	},
 	{
 		"abr": "eternitycell",
-		"price": 1439000,
+		"price": 439000,
 		"category": "Power",
 		"defname": "SNS_Hidden"
-	},
-	{
-		"abr": "fabricateddrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Fabricated_Drone"
-	},
-	{
-		"abr": "fabricatedhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Fabricated_Honeycomb"
-	},
-	{
-		"abr": "fabricatedqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Fabricated_Queen"
 	},
 	{
 		"abr": "facepaintingtable",
@@ -7951,28 +6325,10 @@
 		"defname": "VFE_TableFacePaints"
 	},
 	{
-		"abr": "falchion",
-		"price": 261,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Falchion"
-	},
-	{
 		"abr": "farotable",
 		"price": 255,
 		"category": "Furniture",
 		"defname": "TableFaro"
-	},
-	{
-		"abr": "fat",
-		"price": 2,
-		"category": "Animal products",
-		"defname": "DankPyon_Fat"
-	},
-	{
-		"abr": "fencingsword",
-		"price": 320,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_FencingSword"
 	},
 	{
 		"abr": "fenrir",
@@ -7993,60 +6349,6 @@
 		"defname": "VFEV_Leather_Fenrir"
 	},
 	{
-		"abr": "feraldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Feral_Drone"
-	},
-	{
-		"abr": "feralhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Feral_Honeycomb"
-	},
-	{
-		"abr": "feralqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Feral_Queen"
-	},
-	{
-		"abr": "fightingaxe",
-		"price": 321,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_FightingAxe"
-	},
-	{
-		"abr": "fightingspear",
-		"price": 256,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_FightingSpear"
-	},
-	{
-		"abr": "finehoneymeal",
-		"price": 37,
-		"category": "Meals",
-		"defname": "RB_FineHoney"
-	},
-	{
-		"abr": "firebombs",
-		"price": 314,
-		"category": "Grenades",
-		"defname": "VWE_Weapon_FireBomb"
-	},
-	{
-		"abr": "fireplace",
-		"price": 392,
-		"category": "Furniture",
-		"defname": "RGK_Fireplace"
-	},
-	{
-		"abr": "fireplacee",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "RGK_FireplaceE"
-	},
-	{
 		"abr": "fivefingerfillettable",
 		"price": 205,
 		"category": "Furniture",
@@ -8059,136 +6361,16 @@
 		"defname": "VFES_Headgear_FlatCap"
 	},
 	{
-		"abr": "flour",
-		"price": 2,
-		"category": "Foods",
-		"defname": "DankPyon_Flour"
-	},
-	{
 		"abr": "forbiddenknowledge(abyssalcomponent#2/5)",
 		"price": 58333,
 		"category": "Artifacts",
 		"defname": "SNS_CosmicCall_Component_II"
 	},
 	{
-		"abr": "forsakendrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Forsaken_Drone"
-	},
-	{
-		"abr": "forsakenhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Forsaken_Honeycomb"
-	},
-	{
-		"abr": "forsakenqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Forsaken_Queen"
-	},
-	{
-		"abr": "friedeggs",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_MealFriedEggs"
-	},
-	{
-		"abr": "frostydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Frosty_Drone"
-	},
-	{
-		"abr": "frostyhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Frosty_Honeycomb"
-	},
-	{
-		"abr": "frostyqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Frosty_Queen"
-	},
-	{
-		"abr": "fueledsmithy",
-		"price": 367,
-		"category": "Production",
-		"defname": "GL_FueledSmithy"
-	},
-	{
-		"abr": "fueledstove",
-		"price": 279,
-		"category": "Production",
-		"defname": "RGK_FueledStove"
-	},
-	{
-		"abr": "fullarmingcap",
-		"price": 90,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_FullArmingCap"
-	},
-	{
-		"abr": "fullchaincoif",
-		"price": 222,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_ChainCoifFull"
-	},
-	{
-		"abr": "fullplate",
-		"price": 933,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_FullPlate"
-	},
-	{
-		"abr": "fungaldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Fungal_Drone"
-	},
-	{
-		"abr": "fungalhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Fungal_Honeycomb"
-	},
-	{
-		"abr": "fungalqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Fungal_Queen"
-	},
-	{
 		"abr": "furbed",
 		"price": 171,
 		"category": "Furniture",
 		"defname": "VFEV_FurBed"
-	},
-	{
-		"abr": "furbed",
-		"price": 145,
-		"category": "Furniture",
-		"defname": "DankPyon_BedFur"
-	},
-	{
-		"abr": "furnace",
-		"price": 417,
-		"category": "Production",
-		"defname": "DankPyon_Furnace"
-	},
-	{
-		"abr": "gambeson",
-		"price": 235,
-		"category": "Apparel",
-		"defname": "Dankpyon_Apparel_Gambeson"
-	},
-	{
-		"abr": "garlic",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawGarlic"
 	},
 	{
 		"abr": "gatlinggunturret",
@@ -8209,124 +6391,10 @@
 		"defname": "SNS_Television_GenI"
 	},
 	{
-		"abr": "gloves",
-		"price": 173,
-		"category": "Handwear",
-		"defname": "DankPyon_Handwear_GlovesLeather"
-	},
-	{
-		"abr": "goedendag",
-		"price": 266,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Goedendag"
-	},
-	{
-		"abr": "goldore",
-		"price": 5,
-		"category": "Raw resources",
-		"defname": "DankPyon_GoldOre"
-	},
-	{
-		"abr": "granitechunk",
-		"price": 18,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
-	},
-	{
-		"abr": "grapemust",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "VFEM_Must"
-	},
-	{
-		"abr": "grapemust",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "DankPyon_MustWine"
-	},
-	{
-		"abr": "grapes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VFEM_RawGrapes"
-	},
-	{
-		"abr": "grapes",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawGrapes"
-	},
-	{
 		"abr": "greatdress",
 		"price": 221,
 		"category": "Apparel",
 		"defname": "Apparel_GreatDress"
-	},
-	{
-		"abr": "greathelm",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_GreatHelm"
-	},
-	{
-		"abr": "greataxe",
-		"price": 533,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Greataxe"
-	},
-	{
-		"abr": "greatsword",
-		"price": 642,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Greatsword"
-	},
-	{
-		"abr": "griffonberry",
-		"price": 17,
-		"category": "Vegetarian",
-		"defname": "DankPyon_GriffonBerry"
-	},
-	{
-		"abr": "griffonberrypie",
-		"price": 125,
-		"category": "Meals",
-		"defname": "DankPyon_MealGriffonBerryPie"
-	},
-	{
-		"abr": "grill",
-		"price": 212,
-		"category": "Production",
-		"defname": "DankPyon_Grill"
-	},
-	{
-		"abr": "grilledcheese",
-		"price": 33,
-		"category": "Meals",
-		"defname": "DankPyon_MealGrilledCheese"
-	},
-	{
-		"abr": "grilledsausages",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_MealGrilledSausages"
-	},
-	{
-		"abr": "grilledskewers",
-		"price": 35,
-		"category": "Meals",
-		"defname": "DankPyon_MealGrilledSkewers"
-	},
-	{
-		"abr": "grindingwheel",
-		"price": 442,
-		"category": "Misc",
-		"defname": "DankPyon_Grinder"
-	},
-	{
-		"abr": "grizzlybearrug(3x3)",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "DankPyon_RugGrizzlyBear3x3c"
 	},
 	{
 		"abr": "guardianarmor",
@@ -8341,64 +6409,10 @@
 		"defname": "VFEV_Apparel_GuardianHelmet"
 	},
 	{
-		"abr": "handtailorbench",
-		"price": 225,
-		"category": "Production",
-		"defname": "GL_HandTailoringBench"
-	},
-	{
-		"abr": "handaxe",
-		"price": 212,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Handaxe"
-	},
-	{
 		"abr": "harpoon",
 		"price": 417,
 		"category": "Ranged weapons",
 		"defname": "VFE_Harpoon"
-	},
-	{
-		"abr": "hatchet",
-		"price": 176,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Hatchet"
-	},
-	{
-		"abr": "hauberk",
-		"price": 358,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Hauberk"
-	},
-	{
-		"abr": "hearth",
-		"price": 212,
-		"category": "Production",
-		"defname": "DankPyon_RusticHearth"
-	},
-	{
-		"abr": "heartystew",
-		"price": 33,
-		"category": "Meals",
-		"defname": "DankPyon_MealHeartyStew"
-	},
-	{
-		"abr": "heatershield",
-		"price": 367,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Heater"
-	},
-	{
-		"abr": "heavyclub",
-		"price": 244,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_HeavyClub"
-	},
-	{
-		"abr": "heavycrossbow",
-		"price": 278,
-		"category": "Ranged weapons",
-		"defname": "VFEM_Bow_HeavyCrossbow"
 	},
 	{
 		"abr": "heavycryptoaxe",
@@ -8413,36 +6427,6 @@
 		"defname": "VFEV_Apparel_CryptoHeavyHelmet"
 	},
 	{
-		"abr": "heavyhauberk",
-		"price": 417,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Heavy_Hauberk"
-	},
-	{
-		"abr": "heavymace",
-		"price": 289,
-		"category": "Melee weapons",
-		"defname": "VFEM_MeleeWeapon_HeavyMace"
-	},
-	{
-		"abr": "heavyplatearmor",
-		"price": 1158,
-		"category": "Armor",
-		"defname": "VFEM_Apparel_PlateArmorHeavy"
-	},
-	{
-		"abr": "heavyplatehelmet",
-		"price": 305,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetHeavy"
-	},
-	{
-		"abr": "heavywax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_HeavyWax"
-	},
-	{
 		"abr": "hedonia",
 		"price": 250,
 		"category": "Drugs",
@@ -8453,30 +6437,6 @@
 		"price": 2500,
 		"category": "Meals",
 		"defname": "SNS_Meal_Normal_GenIV"
-	},
-	{
-		"abr": "heraldicgreathelm",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_HeraldicGreatHelm"
-	},
-	{
-		"abr": "highdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_High_Drone"
-	},
-	{
-		"abr": "highhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_High_Honeycomb"
-	},
-	{
-		"abr": "highqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_High_Queen"
 	},
 	{
 		"abr": "high-yieldtelescope",
@@ -8491,30 +6451,6 @@
 		"defname": "VFEV_Hnefatafl"
 	},
 	{
-		"abr": "honey",
-		"price": 2,
-		"category": "Bee honeys",
-		"defname": "RB_BaseHoney"
-	},
-	{
-		"abr": "honeypreservedmeat",
-		"price": 8,
-		"category": "Meals",
-		"defname": "RB_HoneyPreservedMeat"
-	},
-	{
-		"abr": "honeypreservedvegetables",
-		"price": 8,
-		"category": "Meals",
-		"defname": "RB_HoneyPreservedVegetables"
-	},
-	{
-		"abr": "honeyedicepop",
-		"price": 5,
-		"category": "Honey food products",
-		"defname": "RB_HoneyedIcePop"
-	},
-	{
 		"abr": "honey-wine",
 		"price": 25,
 		"category": "Drugs",
@@ -8527,184 +6463,10 @@
 		"defname": "VFEV_MeadFermentingBarrel"
 	},
 	{
-		"abr": "hookedblade",
-		"price": 218,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_HookedBlade"
-	},
-	{
-		"abr": "hounskullhelmet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_HounskullHelmet"
-	},
-	{
-		"abr": "hugebisonhide",
-		"price": 217,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Bison"
-	},
-	{
-		"abr": "hugeelephanthide",
-		"price": 542,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Elephant"
-	},
-	{
-		"abr": "hugegrizzlybearhide",
-		"price": 292,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BearGrizzly"
-	},
-	{
-		"abr": "hugeheavypelt",
-		"price": 207,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HeavyPeltHuge"
-	},
-	{
-		"abr": "hugehide",
-		"price": 180,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HideHuge"
-	},
-	{
-		"abr": "hugemegaslothpelt",
-		"price": 417,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Megasloth"
-	},
-	{
-		"abr": "hugemuffalopelt",
-		"price": 217,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Muffalo"
-	},
-	{
-		"abr": "hugepolarbearhide",
-		"price": 292,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_BearPolar"
-	},
-	{
-		"abr": "hugerhinoceroshide",
-		"price": 408,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Rhinoceros"
-	},
-	{
-		"abr": "hugeroxpelt",
-		"price": 542,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Rox"
-	},
-	{
-		"abr": "hugescalehide",
-		"price": 225,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ScaleHuge"
-	},
-	{
-		"abr": "hugesoftpelt",
-		"price": 248,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_SoftPeltHuge"
-	},
-	{
-		"abr": "hugethickhide",
-		"price": 270,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickHideHuge"
-	},
-	{
-		"abr": "hugethickscalehide",
-		"price": 270,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickScaleHuge"
-	},
-	{
-		"abr": "hugethrumbopelt",
-		"price": 2517,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Thrumbo"
-	},
-	{
-		"abr": "humanrug(1x2)",
-		"price": 358,
-		"category": "Furniture",
-		"defname": "DankPyon_RugHuman1x2c"
-	},
-	{
-		"abr": "humanskin",
-		"price": 315,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Human"
-	},
-	{
-		"abr": "hunter'sstew",
-		"price": 37,
-		"category": "Meals",
-		"defname": "DankPyon_MealHuntersStew"
-	},
-	{
-		"abr": "huntingbow",
-		"price": 142,
-		"category": "Ranged weapons",
-		"defname": "DankPyon_Bow_Hunting"
-	},
-	{
 		"abr": "huntingrifle",
 		"price": 483,
 		"category": "Ranged weapons",
 		"defname": "VFES_Gun_HuntingRifle"
-	},
-	{
-		"abr": "hybriddrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hybrid_Drone"
-	},
-	{
-		"abr": "hybridhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Hybrid_Honeycomb"
-	},
-	{
-		"abr": "hybridqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hybrid_Queen"
-	},
-	{
-		"abr": "hyena",
-		"price": 600,
-		"category": "Animals",
-		"defname": "DankPyon_Hyena"
-	},
-	{
-		"abr": "hyenarug(2x2)",
-		"price": 132,
-		"category": "Furniture",
-		"defname": "DankPyon_RugHyena2x2c"
-	},
-	{
-		"abr": "hyperdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hyper_Drone"
-	},
-	{
-		"abr": "hyperhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Hyper_Honeycomb"
-	},
-	{
-		"abr": "hyperqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Hyper_Queen"
 	},
 	{
 		"abr": "insanitywarhead",
@@ -8725,22 +6487,10 @@
 		"defname": "VFEI_InsectoidArm"
 	},
 	{
-		"abr": "insectoiddrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Insectoid_Drone"
-	},
-	{
 		"abr": "insectoidegg(unfert.)",
 		"price": 5,
 		"category": "Eggs (unfert.)",
 		"defname": "VFEI_EggInsectoidUnfertilized"
-	},
-	{
-		"abr": "insectoidhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Insectoid_Honeycomb"
 	},
 	{
 		"abr": "insectoidleg",
@@ -8753,24 +6503,6 @@
 		"price": 2500,
 		"category": "Animals",
 		"defname": "VFEI_Insectoid_Queen"
-	},
-	{
-		"abr": "insectoidqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Insectoid_Queen"
-	},
-	{
-		"abr": "ironingot",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "DankPyon_IronIngot"
-	},
-	{
-		"abr": "ironore",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "DankPyon_IronOre"
 	},
 	{
 		"abr": "jarlcape",
@@ -8791,178 +6523,10 @@
 		"defname": "VFEI_JellySac"
 	},
 	{
-		"abr": "jesterhat",
-		"price": 111,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_JesterHat"
-	},
-	{
-		"abr": "jesteroutfit",
-		"price": 179,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_JesterOutfit"
-	},
-	{
-		"abr": "jukebox",
-		"price": 1617,
-		"category": "Recreation",
-		"defname": "JukeBox"
-	},
-	{
-		"abr": "king’srobes",
-		"price": 297,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_KingsRobes"
-	},
-	{
-		"abr": "king'scrown",
-		"price": 260,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_KingsCrown"
-	},
-	{
-		"abr": "kiteshield",
-		"price": 241,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Kite"
-	},
-	{
-		"abr": "lacticdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Lactic_Drone"
-	},
-	{
-		"abr": "lactichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Lactic_Honeycomb"
-	},
-	{
-		"abr": "lacticqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Lactic_Queen"
-	},
-	{
-		"abr": "lamp",
-		"price": 42,
-		"category": "Furniture",
-		"defname": "RGK_lamp"
-	},
-	{
-		"abr": "lampe",
-		"price": 90,
-		"category": "Furniture",
-		"defname": "RGK_lampE"
-	},
-	{
-		"abr": "lampe(white)",
-		"price": 90,
-		"category": "Furniture",
-		"defname": "GL_lampE_White"
-	},
-	{
-		"abr": "lampm",
-		"price": 42,
-		"category": "Furniture",
-		"defname": "RGK_LampM"
-	},
-	{
-		"abr": "lampm(white)",
-		"price": 42,
-		"category": "Furniture",
-		"defname": "GL_LampM_White"
-	},
-	{
-		"abr": "lamp(white)",
-		"price": 42,
-		"category": "Furniture",
-		"defname": "GL_lamp_White"
-	},
-	{
-		"abr": "largearcticwolfpelt",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_WolfArctic"
-	},
-	{
-		"abr": "largecougarpelt",
-		"price": 126,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Cougar"
-	},
-	{
-		"abr": "largedirewolfpelt",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_WolfDirewolf"
-	},
-	{
-		"abr": "largeheavypelt",
-		"price": 104,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HeavyPeltLarge"
-	},
-	{
-		"abr": "largehide",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HideLarge"
-	},
-	{
-		"abr": "largehyenapelt",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Hyena"
-	},
-	{
-		"abr": "largepantherpelt",
-		"price": 126,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_Panther"
-	},
-	{
-		"abr": "largescalehide",
-		"price": 112,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ScaleLarge"
-	},
-	{
-		"abr": "largesoftpelt",
-		"price": 124,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_SoftPeltLarge"
-	},
-	{
-		"abr": "largethickhide",
-		"price": 135,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickHideLarge"
-	},
-	{
-		"abr": "largethickscalehide",
-		"price": 135,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickScaleLarge"
-	},
-	{
-		"abr": "largetimberwolfpelt",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_WolfTimber"
-	},
-	{
 		"abr": "larvae",
 		"price": 1667,
 		"category": "Animals",
 		"defname": "VFEI_Insectoid_Larvae"
-	},
-	{
-		"abr": "lavishhoneymeal",
-		"price": 75,
-		"category": "Meals",
-		"defname": "RB_LavishHoney"
 	},
 	{
 		"abr": "leatherarmor",
@@ -8977,88 +6541,10 @@
 		"defname": "VFEV_Apparel_LeatherHelmet"
 	},
 	{
-		"abr": "leathervest",
-		"price": 163,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Leather_Tunic"
-	},
-	{
-		"abr": "legendarydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Legendary_Drone"
-	},
-	{
-		"abr": "legendaryhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Legendary_Honeycomb"
-	},
-	{
-		"abr": "legendaryqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Legendary_Queen"
-	},
-	{
-		"abr": "lemons",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawLemons"
-	},
-	{
-		"abr": "lentils",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawLentils"
-	},
-	{
-		"abr": "lightclub",
-		"price": 89,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_LightClub"
-	},
-	{
-		"abr": "lightplatehelmet",
-		"price": 153,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetLight"
-	},
-	{
 		"abr": "lightunbalancedturret",
 		"price": 3758,
 		"category": "Security",
 		"defname": "SNS_Turret_LightCosmic"
-	},
-	{
-		"abr": "limestonechunk",
-		"price": 16,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
-	},
-	{
-		"abr": "lindwurmscales",
-		"price": 33,
-		"category": "Leathers",
-		"defname": "DankPyon_Leather_Lindwurm"
-	},
-	{
-		"abr": "locker",
-		"price": 284,
-		"category": "Furniture",
-		"defname": "GL_Locker"
-	},
-	{
-		"abr": "longaxe",
-		"price": 492,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Longaxe"
-	},
-	{
-		"abr": "longsword",
-		"price": 442,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Longsword"
 	},
 	{
 		"abr": "lothurr",
@@ -9085,40 +6571,10 @@
 		"defname": "Meat_VFEV_Lothurr"
 	},
 	{
-		"abr": "luciferdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Lucifer_Drone"
-	},
-	{
-		"abr": "luciferhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Lucifer_Honeycomb"
-	},
-	{
-		"abr": "luciferqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Lucifer_Queen"
-	},
-	{
 		"abr": "lux",
 		"price": 67,
 		"category": "Drugs",
 		"defname": "SNS_Lux"
-	},
-	{
-		"abr": "luxuriousdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Luxurious_Drone"
-	},
-	{
-		"abr": "luxurioushoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Luxurious_Honeycomb"
 	},
 	{
 		"abr": "luxuriousnutrientbar",
@@ -9127,124 +6583,10 @@
 		"defname": "SNS_Meal_Nutrient_GenIII"
 	},
 	{
-		"abr": "luxuriousqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Luxurious_Queen"
-	},
-	{
-		"abr": "makeshiftlmg",
-		"price": 297,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MakeshiftLMG"
-	},
-	{
-		"abr": "makeshiftpistol",
-		"price": 113,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MakeshiftPistol"
-	},
-	{
-		"abr": "makeshiftrifle",
-		"price": 243,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MakeshiftRifle"
-	},
-	{
-		"abr": "makeshiftshotgun",
-		"price": 178,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MakeshiftShotgun"
-	},
-	{
-		"abr": "makeshiftsmg",
-		"price": 172,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_MakeshiftSMG"
-	},
-	{
 		"abr": "mandibles",
 		"price": 2000,
 		"category": "Insect",
 		"defname": "VFEI_Mandibles"
-	},
-	{
-		"abr": "manger",
-		"price": 254,
-		"category": "Furniture",
-		"defname": "RGK_Manger"
-	},
-	{
-		"abr": "marblechunk",
-		"price": 13,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
-	},
-	{
-		"abr": "mashedpotatoes",
-		"price": 28,
-		"category": "Meals",
-		"defname": "DankPyon_MealMashedPotatoes"
-	},
-	{
-		"abr": "mead",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "RB_Mead"
-	},
-	{
-		"abr": "meadfermentingbarrel",
-		"price": 95,
-		"category": "Production",
-		"defname": "RB_MeadFermentingBarrel"
-	},
-	{
-		"abr": "meadmust",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "RB_Must"
-	},
-	{
-		"abr": "medicinaldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Medicinal_Drone"
-	},
-	{
-		"abr": "medicinalhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Medicinal_Honeycomb"
-	},
-	{
-		"abr": "medicinalqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Medicinal_Queen"
-	},
-	{
-		"abr": "mediumheavypelt",
-		"price": 86,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HeavyPeltMedium"
-	},
-	{
-		"abr": "mediumhide",
-		"price": 75,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HideMedium"
-	},
-	{
-		"abr": "mediumsoftpelt",
-		"price": 103,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_SoftPeltMedium"
-	},
-	{
-		"abr": "mediumthickhide",
-		"price": 112,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickHideMedium"
 	},
 	{
 		"abr": "megapede",
@@ -9252,1524 +6594,6 @@
 		"category": "Animals",
 		"defname": "VFEI_Insectoid_Megapede"
 	},
-	{
-		"abr": "metalstrongbox",
-		"price": 78,
-		"category": "Furniture",
-		"defname": "DankPyon_MetalStrongbox"
-	},
-	{
-		"abr": "milddrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mild_Drone"
-	},
-	{
-		"abr": "mildhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Mild_Honeycomb"
-	},
-	{
-		"abr": "mildqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Mild_Queen"
-	},
-	{
-		"abr": "militarypick",
-		"price": 185,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_MilitaryPick"
-	},
-	{
-		"abr": "militiaspear",
-		"price": 181,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_MilitiaSpear"
-	},
-	{
-		"abr": "millstone",
-		"price": 143,
-		"category": "Production",
-		"defname": "DankPyon_Millstone"
-	},
-	{
-		"abr": "minitable",
-		"price": 88,
-		"category": "Furniture",
-		"defname": "RGK_MiniTableA"
-	},
-	{
-		"abr": "minitable",
-		"price": 88,
-		"category": "Furniture",
-		"defname": "RGK_MiniTableB"
-	},
-	{
-		"abr": "mjollnirstriketargeter",
-		"price": 2000,
-		"category": "Utility",
-		"defname": "VFEV_OrbitalTargeterMjollnir"
-	},
-	{
-		"abr": "mooseheaddress",
-		"price": 203,
-		"category": "Headgear",
-		"defname": "VFEV_MooseHeaddress"
-	},
-	{
-		"abr": "morningstar",
-		"price": 188,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_MorningStar"
-	},
-	{
-		"abr": "mushroomsoup",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_MealMushroomSoup"
-	},
-	{
-		"abr": "neutrodrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Neutro_Drone"
-	},
-	{
-		"abr": "neutrohoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Neutro_Honeycomb"
-	},
-	{
-		"abr": "neutroqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Neutro_Queen"
-	},
-	{
-		"abr": "nitrodrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nitro_Drone"
-	},
-	{
-		"abr": "nitrohoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Nitro_Honeycomb"
-	},
-	{
-		"abr": "nitroqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nitro_Queen"
-	},
-	{
-		"abr": "njorun",
-		"price": 11667,
-		"category": "Animals",
-		"defname": "VFEV_Njorun"
-	},
-	{
-		"abr": "njorunmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_VFEV_Njorun"
-	},
-	{
-		"abr": "njorunfur",
-		"price": 17,
-		"category": "Leathers",
-		"defname": "VFEV_Leather_Njorun"
-	},
-	{
-		"abr": "noblefurcoat",
-		"price": 433,
-		"category": "Apparel",
-		"defname": "VFEV_Apparel_RoyalFurCoat"
-	},
-	{
-		"abr": "noblesword",
-		"price": 400,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_NobleSword"
-	},
-	{
-		"abr": "nocturnaldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nocturnal_Drone"
-	},
-	{
-		"abr": "nocturnalhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Nocturnal_Honeycomb"
-	},
-	{
-		"abr": "nocturnalqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nocturnal_Queen"
-	},
-	{
-		"abr": "nomadmace",
-		"price": 172,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_NomadMace"
-	},
-	{
-		"abr": "nondescriptmeat",
-		"price": 13,
-		"category": "Meat",
-		"defname": "RB_NondescriptMeat"
-	},
-	{
-		"abr": "nondescriptvegetables",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RB_NonDescriptVegetables"
-	},
-	{
-		"abr": "nutrientbar",
-		"price": 8,
-		"category": "Meals",
-		"defname": "SNS_Meal_Nutrient_GenI"
-	},
-	{
-		"abr": "nutrientprocessor",
-		"price": 2417,
-		"category": "Production",
-		"defname": "Table_SNS_NutrientProcessor"
-	},
-	{
-		"abr": "nutritiousdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nutritious_Drone"
-	},
-	{
-		"abr": "nutritioushoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Nutritious_Honeycomb"
-	},
-	{
-		"abr": "nutritiousqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Nutritious_Queen"
-	},
-	{
-		"abr": "oakbarrel",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "RGK_orc"
-	},
-	{
-		"abr": "oculardrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Ocular_Drone"
-	},
-	{
-		"abr": "ocularhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Ocular_Honeycomb"
-	},
-	{
-		"abr": "ocularqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Ocular_Queen"
-	},
-	{
-		"abr": "oilydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Oily_Drone"
-	},
-	{
-		"abr": "oilyhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Oily_Honeycomb"
-	},
-	{
-		"abr": "oilyqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Oily_Queen"
-	},
-	{
-		"abr": "onions",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawOnions"
-	},
-	{
-		"abr": "openklappvisierhelmet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPoyn_Headgear_KlappvisierHelmetOpen"
-	},
-	{
-		"abr": "oven",
-		"price": 252,
-		"category": "Production",
-		"defname": "DankPyon_StoneOven"
-	},
-	{
-		"abr": "overpoweredalloy",
-		"price": 375,
-		"category": "Raw resources",
-		"defname": "SNS_CosmicAlloy"
-	},
-	{
-		"abr": "overpoweredarm",
-		"price": 29225,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicArm_GenII"
-	},
-	{
-		"abr": "overpower-edarmor",
-		"price": 121217,
-		"category": "Armor",
-		"defname": "SNS_Apparel_CosmicPowerArmor"
-	},
-	{
-		"abr": "overpower-edarmorhelmet",
-		"price": 59258,
-		"category": "Headgear",
-		"defname": "SNS_Apparel_CosmicPowerArmorHelmet"
-	},
-	{
-		"abr": "overpoweredbatterygeneration1",
-		"price": 4125,
-		"category": "Power",
-		"defname": "SNS_Battery_I"
-	},
-	{
-		"abr": "overpoweredbatterygeneration2",
-		"price": 50300,
-		"category": "Power",
-		"defname": "SNS_Battery_II"
-	},
-	{
-		"abr": "overpoweredbatterygenerationomega",
-		"price": 109467,
-		"category": "Power",
-		"defname": "SNS_Battery_III"
-	},
-	{
-		"abr": "overpoweredcannon",
-		"price": 109675,
-		"category": "Ranged weapons",
-		"defname": "SNS_CosmicLance"
-	},
-	{
-		"abr": "overpoweredcomponent",
-		"price": 2708,
-		"category": "Manufactured",
-		"defname": "SNS_Component_GenII"
-	},
-	{
-		"abr": "overpowereddigestivesystem",
-		"price": 15392,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicStomach_GenII"
-	},
-	{
-		"abr": "overpoweredear",
-		"price": 20808,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicEar_GenII"
-	},
-	{
-		"abr": "overpoweredeye",
-		"price": 20808,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicEye_GenII"
-	},
-	{
-		"abr": "overpoweredforge",
-		"price": 1950,
-		"category": "Production",
-		"defname": "Table_SNS_Unobtainer"
-	},
-	{
-		"abr": "overpoweredheadshroud",
-		"price": 11100,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicHead_GenII"
-	},
-	{
-		"abr": "overpoweredheart",
-		"price": 13892,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicHeart_GenII"
-	},
-	{
-		"abr": "overpoweredjaw",
-		"price": 11100,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicJaw_GenII"
-	},
-	{
-		"abr": "overpoweredkidney",
-		"price": 11183,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicKidney_GenII"
-	},
-	{
-		"abr": "overpoweredleg",
-		"price": 29225,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicLeg_GenII"
-	},
-	{
-		"abr": "overpoweredliver",
-		"price": 15392,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicLiver_GenII"
-	},
-	{
-		"abr": "overpoweredlung",
-		"price": 15392,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicLung_GenII"
-	},
-	{
-		"abr": "overpoweredmedicine",
-		"price": 6667,
-		"category": "Medicine",
-		"defname": "SNS_Medicine_GenII"
-	},
-	{
-		"abr": "overpoweredneckshroud",
-		"price": 11100,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicNeck_GenII"
-	},
-	{
-		"abr": "overpoweredneuralenchanter",
-		"price": 35558,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicBrain_GenII"
-	},
-	{
-		"abr": "overpowerednose",
-		"price": 20808,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicNose_GenII"
-	},
-	{
-		"abr": "overpoweredpistol",
-		"price": 11475,
-		"category": "Ranged weapons",
-		"defname": "SNS_Pistol_GenII"
-	},
-	{
-		"abr": "overpoweredrifle",
-		"price": 36075,
-		"category": "Ranged weapons",
-		"defname": "SNS_Rifle_GenII"
-	},
-	{
-		"abr": "overpoweredshotgun",
-		"price": 46283,
-		"category": "Ranged weapons",
-		"defname": "SNS_Shotgun_GenII"
-	},
-	{
-		"abr": "overpoweredsniper",
-		"price": 68367,
-		"category": "Ranged weapons",
-		"defname": "SNS_Sniper_GenII"
-	},
-	{
-		"abr": "overpoweredspine",
-		"price": 27350,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicSpine_GenII"
-	},
-	{
-		"abr": "overpoweredtextile",
-		"price": 188,
-		"category": "Manufactured",
-		"defname": "SNS_CosmicAlloyWeave"
-	},
-	{
-		"abr": "overpoweredtorsoshroud",
-		"price": 11100,
-		"category": "Cosmic bionic",
-		"defname": "SNS_Item_BionicTorso_GenII"
-	},
-	{
-		"abr": "p.a.i.n.fabricator",
-		"price": 98183,
-		"category": "Production",
-		"defname": "Table_SNS_CosmicCall"
-	},
-	{
-		"abr": "packagedrations",
-		"price": 40,
-		"category": "Meals",
-		"defname": "DankPyon_MealRations"
-	},
-	{
-		"abr": "paddedarmor",
-		"price": 322,
-		"category": "Armor",
-		"defname": "DankPyon_Apparel_Padded_Leather"
-	},
-	{
-		"abr": "paddedflattop",
-		"price": 234,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_PaddedFlatTop"
-	},
-	{
-		"abr": "paddedkettle",
-		"price": 234,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_PaddedKettle"
-	},
-	{
-		"abr": "paddednasalhelm",
-		"price": 234,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_PaddedNasalHelm"
-	},
-	{
-		"abr": "paddedsurcoat",
-		"price": 186,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Padded_Surcoat"
-	},
-	{
-		"abr": "panacea",
-		"price": 750,
-		"category": "Drugs",
-		"defname": "SNS_Panacea"
-	},
-	{
-		"abr": "pantherrug(2x2)",
-		"price": 190,
-		"category": "Furniture",
-		"defname": "DankPyon_RugPanther2x2c"
-	},
-	{
-		"abr": "paper",
-		"price": 3,
-		"category": "Manufactured",
-		"defname": "DankPyon_Paper"
-	},
-	{
-		"abr": "patchedrug(1x1)",
-		"price": 101,
-		"category": "Furniture",
-		"defname": "DankPyon_RugPatched1x1c"
-	},
-	{
-		"abr": "patchedrug(2x2)",
-		"price": 197,
-		"category": "Furniture",
-		"defname": "DankPyon_RugPatched2x2c"
-	},
-	{
-		"abr": "patchedrug(3x3)",
-		"price": 375,
-		"category": "Furniture",
-		"defname": "DankPyon_RugPatched3x3c"
-	},
-	{
-		"abr": "patterntransmissionunit",
-		"price": 103583,
-		"category": "Recreation",
-		"defname": "SNS_Television_GenIII"
-	},
-	{
-		"abr": "perditionlightunbalancedturret",
-		"price": 4033,
-		"category": "Security",
-		"defname": "SNS_Turret_PerditionLightCosmic"
-	},
-	{
-		"abr": "petdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Pet_Drone"
-	},
-	{
-		"abr": "pethoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Pet_Honeycomb"
-	},
-	{
-		"abr": "petqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Pet_Queen"
-	},
-	{
-		"abr": "petrifiedtorturematter",
-		"price": 8333,
-		"category": "Raw resources",
-		"defname": "SNS_StableMatter"
-	},
-	{
-		"abr": "pheromonesecretor",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PheromoneSecretor"
-	},
-	{
-		"abr": "pickaxe",
-		"price": 163,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Pickaxe"
-	},
-	{
-		"abr": "pike",
-		"price": 317,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Pike"
-	},
-	{
-		"abr": "pitchfork",
-		"price": 192,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Pitchfork"
-	},
-	{
-		"abr": "plaguemask",
-		"price": 163,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlagueMask"
-	},
-	{
-		"abr": "plasmascattergun",
-		"price": 3833,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmaScattergun"
-	},
-	{
-		"abr": "plasmabeamrifle",
-		"price": 4167,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmabeamRifle"
-	},
-	{
-		"abr": "plasmacutter",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmacutter"
-	},
-	{
-		"abr": "plasmapiercer",
-		"price": 3833,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmapiercer"
-	},
-	{
-		"abr": "plasmasaw",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "VFE_Plasmasaw"
-	},
-	{
-		"abr": "plasticdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Plastic_Drone"
-	},
-	{
-		"abr": "plastichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Plastic_Honeycomb"
-	},
-	{
-		"abr": "plasticqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Plastic_Queen"
-	},
-	{
-		"abr": "plateboots",
-		"price": 203,
-		"category": "Footwear",
-		"defname": "DankPyon_Footwear_BootsPlate"
-	},
-	{
-		"abr": "plategloves",
-		"price": 203,
-		"category": "Handwear",
-		"defname": "DankPyon_Handwear_GlovesPlate"
-	},
-	{
-		"abr": "pneumaticclaw",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PneumaticClaw"
-	},
-	{
-		"abr": "polarbearrug(3x3)",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "DankPyon_RugPolarBear3x3c"
-	},
-	{
-		"abr": "polehammer",
-		"price": 450,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Polehammer"
-	},
-	{
-		"abr": "portableoverpoweredreactorgeneration1",
-		"price": 5667,
-		"category": "Power",
-		"defname": "SNS_Reactor_I_Portable"
-	},
-	{
-		"abr": "portableoverpoweredreactorgeneration2",
-		"price": 54375,
-		"category": "Power",
-		"defname": "SNS_Reactor_II_Portable"
-	},
-	{
-		"abr": "post",
-		"price": 68,
-		"category": "Production",
-		"defname": "DankPyon_Post"
-	},
-	{
-		"abr": "preciousdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Precious_Drone"
-	},
-	{
-		"abr": "precioushoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Precious_Honeycomb"
-	},
-	{
-		"abr": "preciousqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Precious_Queen"
-	},
-	{
-		"abr": "predatorstomach",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_PredatorStomach"
-	},
-	{
-		"abr": "presser",
-		"price": 189,
-		"category": "Production",
-		"defname": "DankPyon_Presser"
-	},
-	{
-		"abr": "psychicanimaltamer",
-		"price": 1083,
-		"category": "Utility",
-		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
-	},
-	{
-		"abr": "psychiccornucopia",
-		"price": 1167,
-		"category": "Artifacts",
-		"defname": "VFEV_PlantGrowerArtifact"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Psychic_Drone"
-	},
-	{
-		"abr": "psychichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Psychic_Honeycomb"
-	},
-	{
-		"abr": "psychicpacifier",
-		"price": 1083,
-		"category": "Utility",
-		"defname": "VFEI_Artifacts_PsychicPacifier"
-	},
-	{
-		"abr": "psychicqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Psychic_Queen"
-	},
-	{
-		"abr": "psychotropichoney",
-		"price": 2,
-		"category": "Bee honeys",
-		"defname": "RB_PsychotropicHoney"
-	},
-	{
-		"abr": "pumpkinfritters",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_MealPumpkinFritters"
-	},
-	{
-		"abr": "pumpkinsoup",
-		"price": 35,
-		"category": "Meals",
-		"defname": "DankPyon_MealPumpkinSoup"
-	},
-	{
-		"abr": "pumpkingpie",
-		"price": 35,
-		"category": "Meals",
-		"defname": "DankPyon_MealPumpkinPie"
-	},
-	{
-		"abr": "pumpkins",
-		"price": 18,
-		"category": "Vegetarian",
-		"defname": "DankPyon_RawPumpkins"
-	},
-	{
-		"abr": "quenchingbucket",
-		"price": 211,
-		"category": "Misc",
-		"defname": "DankPyon_QuenchingBucket"
-	},
-	{
-		"abr": "quiche",
-		"price": 38,
-		"category": "Meals",
-		"defname": "DankPyon_MealQuiche"
-	},
-	{
-		"abr": "quiver",
-		"price": 194,
-		"category": "Utility",
-		"defname": "DankPyon_Apparel_Quiver"
-	},
-	{
-		"abr": "radioactivedrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Radioactive_Drone"
-	},
-	{
-		"abr": "radioactivehoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Radioactive_Honeycomb"
-	},
-	{
-		"abr": "radioactivequeen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Radioactive_Queen"
-	},
-	{
-		"abr": "ravagerarmor",
-		"price": 825,
-		"category": "Armor",
-		"defname": "VFEV_Apparel_RavagerArmor"
-	},
-	{
-		"abr": "ravagerhelmet",
-		"price": 153,
-		"category": "Headgear",
-		"defname": "VFEV_Apparel_RavagerHelmet"
-	},
-	{
-		"abr": "rawherbs",
-		"price": 2,
-		"category": "Foods",
-		"defname": "DankPyon_RawHerb"
-	},
-	{
-		"abr": "rawhoney",
-		"price": 7,
-		"category": "Animal products",
-		"defname": "VFEV_Honey"
-	},
-	{
-		"abr": "rawsausage",
-		"price": 17,
-		"category": "Meals",
-		"defname": "DankPyon_Sausages"
-	},
-	{
-		"abr": "rawhide",
-		"price": 2,
-		"category": "Leathers",
-		"defname": "DankPyon_Leather_Rawhide"
-	},
-	{
-		"abr": "redbandana",
-		"price": 57,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_RedBandana"
-	},
-	{
-		"abr": "redbeeswax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_RedBeeswax"
-	},
-	{
-		"abr": "reinforcedtable(2x2)",
-		"price": 219,
-		"category": "Furniture",
-		"defname": "DankPyon_ReinforcedRusticTable2x2c"
-	},
-	{
-		"abr": "reinforcedtable(2x4)",
-		"price": 425,
-		"category": "Furniture",
-		"defname": "DankPyon_ReinforcedTable2x4c"
-	},
-	{
-		"abr": "replicaflower",
-		"price": 46,
-		"category": "Furniture",
-		"defname": "RGK_Flower"
-	},
-	{
-		"abr": "riotarmor",
-		"price": 667,
-		"category": "Armor",
-		"defname": "VFE_Apparel_RiotArmor"
-	},
-	{
-		"abr": "riothelmet",
-		"price": 315,
-		"category": "Headgear",
-		"defname": "VFE_Apparel_RiotHelmet"
-	},
-	{
-		"abr": "riotshield",
-		"price": 274,
-		"category": "Shields",
-		"defname": "VFEI_Shield_Riot"
-	},
-	{
-		"abr": "roundshield",
-		"price": 262,
-		"category": "Shields",
-		"defname": "VFEV_Shield_Round"
-	},
-	{
-		"abr": "roundtable(2x2)",
-		"price": 176,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticRoundTable2x2c"
-	},
-	{
-		"abr": "rox",
-		"price": 6667,
-		"category": "Animals",
-		"defname": "DankPyon_Rox"
-	},
-	{
-		"abr": "roxhorn",
-		"price": 2000,
-		"category": "Items",
-		"defname": "DankPyon_RoxHorn"
-	},
-	{
-		"abr": "roxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_DankPyon_Rox"
-	},
-	{
-		"abr": "roxsteak",
-		"price": 125,
-		"category": "Meals",
-		"defname": "DankPyon_MealRoxSteak"
-	},
-	{
-		"abr": "royalarmchair",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalArmchair"
-	},
-	{
-		"abr": "royalbookshelf",
-		"price": 925,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalBookshelf"
-	},
-	{
-		"abr": "royalchest",
-		"price": 245,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalChest"
-	},
-	{
-		"abr": "royalcloset",
-		"price": 750,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalCloset"
-	},
-	{
-		"abr": "royaldresser",
-		"price": 975,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalDresser"
-	},
-	{
-		"abr": "royalendtable",
-		"price": 492,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalEndTable"
-	},
-	{
-		"abr": "royalgeneticmaterial",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "VFEI_RoyalGenome"
-	},
-	{
-		"abr": "royalgreathelm",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_RoyalGreatHelm"
-	},
-	{
-		"abr": "royalinsectjelly",
-		"price": 17,
-		"category": "Animal products",
-		"defname": "VFEI_RoyalInsectJelly"
-	},
-	{
-		"abr": "royalmegaspider",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "VFEI_Insectoid_RoyalMegaspider"
-	},
-	{
-		"abr": "royaltable(2x2)",
-		"price": 1092,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalTable2x2c"
-	},
-	{
-		"abr": "royaltable(2x4)",
-		"price": 2167,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalTable2x4c"
-	},
-	{
-		"abr": "royaltudorbed",
-		"price": 1925,
-		"category": "Furniture",
-		"defname": "DankPyon_RoyalTudorBed"
-	},
-	{
-		"abr": "runestone",
-		"price": 625,
-		"category": "Furniture",
-		"defname": "VFEV_RuneStone"
-	},
-	{
-		"abr": "rusticchair",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticChair"
-	},
-	{
-		"abr": "rusticfermentingbarrel",
-		"price": 89,
-		"category": "Production",
-		"defname": "DankPyon_RusticFermentingBarrel"
-	},
-	{
-		"abr": "rusticroundstool",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticStool"
-	},
-	{
-		"abr": "sackcloth",
-		"price": 143,
-		"category": "Apparel",
-		"defname": "DankPyon_Apparel_Sackcloth"
-	},
-	{
-		"abr": "sallethelmet",
-		"price": 383,
-		"category": "Headgear",
-		"defname": "DankPyon_Headgear_SalletHelmet"
-	},
-	{
-		"abr": "salt",
-		"price": 2,
-		"category": "Condiments",
-		"defname": "DankPyon_Salt"
-	},
-	{
-		"abr": "sandstonechunk",
-		"price": 13,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
-	},
-	{
-		"abr": "scalehide",
-		"price": 94,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ScaleMedium"
-	},
-	{
-		"abr": "scribetable",
-		"price": 525,
-		"category": "Misc",
-		"defname": "DankPyon_ScribeTable"
-	},
-	{
-		"abr": "seax",
-		"price": 239,
-		"category": "Melee weapons",
-		"defname": "VFE_MeleeWeapon_Seax"
-	},
-	{
-		"abr": "shelf",
-		"price": 154,
-		"category": "Furniture",
-		"defname": "GL_Shelf"
-	},
-	{
-		"abr": "shiv",
-		"price": 72,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Shiv"
-	},
-	{
-		"abr": "silverore",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "DankPyon_SilverOre"
-	},
-	{
-		"abr": "simplechair",
-		"price": 87,
-		"category": "Furniture",
-		"defname": "RGK_SimpleChair"
-	},
-	{
-		"abr": "simplehoneymeal",
-		"price": 30,
-		"category": "Meals",
-		"defname": "RB_SimpleHoney"
-	},
-	{
-		"abr": "simpleresearchbench",
-		"price": 350,
-		"category": "Production",
-		"defname": "RGK_SimpleResearchBench"
-	},
-	{
-		"abr": "skeletaldrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Skeletal_Drone"
-	},
-	{
-		"abr": "skeletalhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Skeletal_Honeycomb"
-	},
-	{
-		"abr": "skeletalqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Skeletal_Queen"
-	},
-	{
-		"abr": "skydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Sky_Drone"
-	},
-	{
-		"abr": "skyhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Sky_Honeycomb"
-	},
-	{
-		"abr": "skyqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Sky_Queen"
-	},
-	{
-		"abr": "slatechunk",
-		"price": 14,
-		"category": "Stone chunks",
-		"defname": "ChunkSlate"
-	},
-	{
-		"abr": "slimydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Slimy_Drone"
-	},
-	{
-		"abr": "slimyhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Slimy_Honeycomb"
-	},
-	{
-		"abr": "slimyqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Slimy_Queen"
-	},
-	{
-		"abr": "sling",
-		"price": 26,
-		"category": "Ranged weapons",
-		"defname": "VWE_Sling"
-	},
-	{
-		"abr": "slurrydrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Slurry_Drone"
-	},
-	{
-		"abr": "slurryhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Slurry_Honeycomb"
-	},
-	{
-		"abr": "slurryqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Slurry_Queen"
-	},
-	{
-		"abr": "smallheavypelt",
-		"price": 69,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HeavyPeltSmall"
-	},
-	{
-		"abr": "smallhide",
-		"price": 60,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_HideSmall"
-	},
-	{
-		"abr": "smallscalehide",
-		"price": 75,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ScaleSmall"
-	},
-	{
-		"abr": "smallsoftpelt",
-		"price": 82,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_SoftPeltSmall"
-	},
-	{
-		"abr": "smallthickhide",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickHideSmall"
-	},
-	{
-		"abr": "smallthickscalehide",
-		"price": 90,
-		"category": "Hides",
-		"defname": "DankPyon_Hide_ThickScaleSmall"
-	},
-	{
-		"abr": "smokedmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "VFEM_SmokedMeat"
-	},
-	{
-		"abr": "smokedmeat",
-		"price": 25,
-		"category": "Meals",
-		"defname": "DankPyon_SmokedMeat"
-	},
-	{
-		"abr": "smoker",
-		"price": 282,
-		"category": "Production",
-		"defname": "DankPyon_Smoker"
-	},
-	{
-		"abr": "sombrero",
-		"price": 97,
-		"category": "Headgear",
-		"defname": "VFES_Headgear_Sombrero"
-	},
-	{
-		"abr": "sonicinfestationrepeller",
-		"price": 3217,
-		"category": "Furniture",
-		"defname": "VFEI_SonicInfestationRepeller"
-	},
-	{
-		"abr": "spetum",
-		"price": 331,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Spetum"
-	},
-	{
-		"abr": "spices",
-		"price": 4,
-		"category": "Condiments",
-		"defname": "DankPyon_Spices"
-	},
-	{
-		"abr": "spidersilk",
-		"price": 17,
-		"category": "Textiles",
-		"defname": "VFEI_Spidersilk"
-	},
-	{
-		"abr": "spinningwheel",
-		"price": 212,
-		"category": "Production",
-		"defname": "DankPyon_SpinningWheel"
-	},
-	{
-		"abr": "splintedboots",
-		"price": 191,
-		"category": "Footwear",
-		"defname": "DankPyon_Footwear_BootsSplinted"
-	},
-	{
-		"abr": "splintedgloves",
-		"price": 191,
-		"category": "Handwear",
-		"defname": "DankPyon_Handwear_GlovesSplinted"
-	},
-	{
-		"abr": "steakwithwine",
-		"price": 92,
-		"category": "Meals",
-		"defname": "DankPyon_MealSteakWithWine"
-	},
-	{
-		"abr": "steelwax",
-		"price": 8,
-		"category": "Beeswax",
-		"defname": "RB_Steelwax"
-	},
-	{
-		"abr": "stellarcomputer",
-		"price": 16500,
-		"category": "Recreation",
-		"defname": "SNS_Computer_GenI"
-	},
-	{
-		"abr": "stewpot",
-		"price": 342,
-		"category": "Production",
-		"defname": "DankPyon_StewPot"
-	},
-	{
-		"abr": "stim-iv",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "SNS_Stim_I"
-	},
-	{
-		"abr": "stim-vii",
-		"price": 533,
-		"category": "Drugs",
-		"defname": "SNS_Stim_II"
-	},
-	{
-		"abr": "stim-x",
-		"price": 833,
-		"category": "Drugs",
-		"defname": "SNS_Stim_III"
-	},
-	{
-		"abr": "stonecuttingspot",
-		"price": 21,
-		"category": "Production",
-		"defname": "DankPyon_StonecuttingSpot"
-	},
-	{
-		"abr": "stonerdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Stoner_Drone"
-	},
-	{
-		"abr": "stonerhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Stoner_Honeycomb"
-	},
-	{
-		"abr": "stonerqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Stoner_Queen"
-	},
-	{
-		"abr": "straw",
-		"price": 1,
-		"category": "Foods",
-		"defname": "DankPyon_Straw"
-	},
-	{
-		"abr": "strawbed",
-		"price": 171,
-		"category": "Furniture",
-		"defname": "DankPyon_StrawBed"
-	},
-	{
-		"abr": "strawdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Straw_Drone"
-	},
-	{
-		"abr": "strawhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Straw_Honeycomb"
-	},
-	{
-		"abr": "strawqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Straw_Queen"
-	},
-	{
-		"abr": "sugar",
-		"price": 4,
-		"category": "Condiments",
-		"defname": "DankPyon_Sugar"
-	},
-	{
-		"abr": "sugarcane",
-		"price": 2,
-		"category": "Foods",
-		"defname": "DankPyon_Sugarcane"
-	},
-	{
-		"abr": "surgeondrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Surgeon_Drone"
-	},
-	{
-		"abr": "surgeonhoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Surgeon_Honeycomb"
-	},
-	{
-		"abr": "surgeonqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Surgeon_Queen"
-	},
-	{
-		"abr": "swampdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Swamp_Drone"
-	},
-	{
-		"abr": "swamphoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Swamp_Honeycomb"
-	},
-	{
-		"abr": "swampqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Swamp_Queen"
-	},
-	{
-		"abr": "sweetpancakes",
-		"price": 37,
-		"category": "Meals",
-		"defname": "DankPyon_MealSweetPancakes"
-	},
-	{
-		"abr": "sweetroll",
-		"price": 11,
-		"category": "Foods",
-		"defname": "VFEV_Sweetroll"
-	},
-	{
-		"abr": "swordlance",
-		"price": 330,
-		"category": "Melee weapons",
-		"defname": "DankPyon_MeleeWeapon_Swordlance"
-	},
-	{
-		"abr": "synapticcerebellum",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_SynapticCerebellum"
-	},
-	{
-		"abr": "syntheticdrone",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Synthetic_Drone"
-	},
-	{
-		"abr": "synthetichoneycomb",
-		"price": 0,
-		"category": "Honey combs",
-		"defname": "RB_Synthetic_Honeycomb"
-	},
-	{
-		"abr": "syntheticqueen",
-		"price": 0,
-		"category": "Drones and queens",
-		"defname": "RB_Bee_Synthetic_Queen"
-	},
-	{
-		"abr": "tabard",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_Tabard"
-	},
-	{
-		"abr": "table(1x2)",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "DankPyon_RusticTable1x2c"
-	},
-	{
-		"abr": "table(1x2)",
-		"price": 126,
-		"category": "Furniture",
-		"defname": "DankPyon_ReinforcedRusticTable1x2c"
-	},
 	],
-	"total": 1980
+	"total": 1508
 }
