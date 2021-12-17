@@ -23340,7 +23340,7 @@
     "KarmaType": null
   },
   "SNS_Apparel_CosmicPowerArmorHelmet": {
-    "CustomName": null,
+    "CustomName": "overpoweredarmorhelmet",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23360,7 +23360,7 @@
     "KarmaType": null
   },
   "SNS_Apparel_CosmicPowerArmor": {
-    "CustomName": null,
+    "CustomName": "overpoweredarmor",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
