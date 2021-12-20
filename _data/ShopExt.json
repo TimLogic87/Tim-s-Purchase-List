@@ -3739,38 +3739,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
-      "stats": [
-        "+20 shooting",
-        "+20 melee"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "EvolvedOrgansRedux",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20 shooting",
-          "+20 melee"
-        ]
-      },
-      "defName": "EVOR_ExcellentFighter",
-      "name": "reptilianbrain",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is confident that everything will work out for the best.",
       "stats": [
         "+2 social",
@@ -5247,43 +5215,29 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Berserker PAWN_alienRace, he has no honor in the hunt, unlike rival clans, as he will hunt unarmed prey with his clan. he is a relentless and ruthless hunter, and he has also shown to be sadistic, seemingly savoring the fear of the prey throughout the hunt. Despite Timmy's brutality, he is also an incredibly skilled fighter, proving this by repeatedly emerging victorious in battle against Humans, Xenomorph and Predator alike. Unsurprisingly, he arrogance will be he demise./n/nhe is four times as likely to start a social fight as others.",
+      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
       "stats": [
-        "+4 melee",
-        "-4 intellectual",
-        "-4 social",
-        "+4.0 melee hit chance",
-        "+15.0 melee dodge chance",
-        "+60% pain shock threshold",
-        "-50% aiming time",
-        "-5.0 shooting accuracy"
+
       ],
       "conflicts": [
-        "wimp"
+
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alien Vs Predator",
+        "mod": "Call of Cthulhu - Cults",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "wimp"
+
         ],
         "stats": [
-          "+4 melee",
-          "-4 intellectual",
-          "-4 social",
-          "+4.0 melee hit chance",
-          "+15.0 melee dodge chance",
-          "+60% pain shock threshold",
-          "-50% aiming time",
-          "-5.0 shooting accuracy"
+
         ]
       },
-      "defName": "AvP_Berserker",
-      "name": "berserker",
+      "defName": "Cults_OathtakerHastur",
+      "name": "oathtaker",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -5291,7 +5245,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a defective inhibitor.",
+      "description": "Timmy has risen from the dead to serve once again.",
       "stats": [
 
       ],
@@ -5303,7 +5257,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alien Vs Predator",
+        "mod": "Call of Cthulhu - Cults",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -5312,89 +5266,13 @@
 
         ]
       },
-      "defName": "AvP_DefectiveInhibitor",
-      "name": "defectiveinhibitor",
+      "defName": "Cults_OathtakerHastur2",
+      "name": "reanimated",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy has a very heavy build for a PAWN_alienRace, he cant jump as high as most PAWN_alienRace and is always falling behind the group whenever he goes anywhere. But when it comes to matter of raw physical strength, Timmy is Far stronger compared to the average PAWN_alienRace.",
-      "stats": [
-        "Go frenzy inspiration disabled.",
-        "-0.20 move speed",
-        "-35% global work speed",
-        "-2.0 melee hit chance",
-        "-15.0 melee dodge chance",
-        "+30% pain shock threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alien Vs Predator",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Go frenzy inspiration disabled.",
-          "-0.20 move speed",
-          "-35% global work speed",
-          "-2.0 melee hit chance",
-          "-15.0 melee dodge chance",
-          "+30% pain shock threshold"
-        ]
-      },
-      "defName": "YautjaBuild",
-      "name": "heavyset",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy has a very light build for a PAWN_alienRace, he can jump higher and move faster than your average PAWN_alienRace this allows Timmy to avoid attacks that would kill, a side effect is that Timmy is weaker when it comes to raw physical strength compared to the average PAWN_alienRace.",
-      "stats": [
-        "+0.40 move speed",
-        "+4.0 melee hit chance",
-        "+15.0 melee dodge chance",
-        "-20% pain shock threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alien Vs Predator",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.40 move speed",
-          "+4.0 melee hit chance",
-          "+15.0 melee dodge chance",
-          "-20% pain shock threshold"
-        ]
-      },
-      "defName": "YautjaBuild",
-      "name": "lightweight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
     }
   ],
   "races": [
@@ -5423,77 +5301,27 @@
     {
       "data": {
         "stats": [
-          "+85.00 Mass",
-          "+$3500 Market value",
-          "+5.50 Move speed",
-          "+60% Flammability",
-          "+36.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+200 Carrying capacity",
-          "+75% Aiming time",
-          "+2.5% Mental break threshold",
-          "+125% Immunity gain speed",
-          "+90% Pain shock threshold",
-          "+105% Global learning factor",
-          "+1.1 Melee dodge chance",
-          "+1.1 Melee hit chance",
-          "+50.00% Negotiation ability",
-          "+50.00% Social impact",
-          "+50.00% Trade price improvement",
-          "+130% Butchery speed",
-          "+130% Butchery efficiency"
-        ],
-        "mod": "Alien Vs Predator",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": ".",
-      "defName": "AvP_Alien_Yautja",
-      "enabled": true,
-      "name": "Yautja",
-      "price": 5833
-    },
-    {
-      "data": {
-        "stats": [
-          "+$5000 Market value",
-          "+4.80 Move speed",
-          "+80% Flammability",
-          "-18.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+40 Leather amount",
-          "+40 Meat amount",
-          "+125 Carrying capacity",
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$0 Market value",
+          "+3.50 Move speed",
           "+0% Psychic sensitivity",
-          "+30% Toxic sensitivity",
-          "+120% Mining speed",
-          "+1.0 Shooting accuracy",
-          "+100% Aiming time",
-          "+2% Mental break threshold",
-          "+125% Immunity gain speed",
-          "+100% Pain shock threshold",
-          "+0 Foraged food amount",
-          "+130% Global learning factor",
-          "+1.2 Melee dodge chance",
-          "+1.1 Melee hit chance",
-          "+110% Butchery speed",
-          "+110% Butchery efficiency",
-          "+110% Smelting speed",
-          "+110% General labor speed",
-          "+110.00% Negotiation ability",
-          "+90.00% Social impact",
-          "+80.00% Trade price improvement"
+          "-10.0% Armor - Blunt",
+          "-15.0% Armor - Sharp",
+          "-180.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+0 Meat amount"
         ],
-        "mod": "Alien Vs Predator",
+        "mod": "Call of Cthulhu - Cults",
         "karmaType": null,
         "customName": false
       },
-      "description": "A synthetic being.",
-      "defName": "AvP_Synth",
+      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
+      "defName": "ReanimatedCorpse",
       "enabled": true,
-      "name": "Synth",
-      "price": 8333
+      "name": "reanimated corpse",
+      "price": 1
     }
   ]
 }
