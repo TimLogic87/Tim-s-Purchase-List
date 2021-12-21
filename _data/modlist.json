@@ -276,12 +276,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Paradox",
     "name": "More Vanilla Turrets 1.1+",
     "steamId": null,
@@ -348,12 +342,6 @@
     "version": "1.7.7368"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
     "author": "Machine",
     "name": "Raise The Roof 1.3",
     "steamId": "1776143665",
@@ -378,36 +366,6 @@
     "version": null
   },
   {
-    "author": "Dave-EEs",
-    "name": "No Random Relations",
-    "steamId": "2583377522",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Horrors (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "Mlie",
-    "name": "Cosmic Horrors VGP Meal Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cults",
-    "steamId": "815039373",
-    "version": "1.0.23.5"
-  },
-  {
     "author": "Jecrell",
     "name": "Call of Cthulhu - Factions",
     "steamId": "764375772",
@@ -420,33 +378,45 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitPawnQueue",
-    "steamId": "2073156511",
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
     "version": "1.0.0.0"
   },
   {
     "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.0.23.5"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "Mlie",
+    "name": "Cosmic Horrors VGP Meal Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Horrors (Continued)",
     "steamId": null,
     "version": null
   },
   {
     "author": "Sarg",
-    "name": "Genetic Rim",
-    "steamId": "1113137502",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[CP] The Gunny Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Industrial Age - Objects and Furniture",
-    "steamId": null,
-    "version": null
   }
 ]
