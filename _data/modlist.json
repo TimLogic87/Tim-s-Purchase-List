@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.1.0"
+    "version": "1.2.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -52,12 +52,6 @@
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
   },
   {
     "author": "Indeed",
@@ -354,18 +348,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Gourmet",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dave-EEs",
     "name": "No Random Relations",
     "steamId": "2583377522",
@@ -390,26 +372,8 @@
     "version": null
   },
   {
-    "author": "AobaKuma",
-    "name": "Not Only just a cannon (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Scurvyez",
     "name": "StevesWalls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gargamiel",
-    "name": "PokéWorld",
-    "steamId": "2652029657",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "TheRugDealer",
-    "name": "PokéWorld Alpha Biome Patch",
     "steamId": null,
     "version": null
   },
@@ -428,6 +392,114 @@
   {
     "author": "ILuvSilicon",
     "name": "Caerulean Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Guyver",
+    "name": "Smear Your S**t ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zardoz Actual",
+    "name": "Zardoz Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Slimes",
+    "steamId": "2639634490",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DanDMan68",
+    "name": "Thunder Targeter",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Caravan Mood Buff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Brrrt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TrahsPanda",
+    "name": "[TP]Fursuits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hexicube",
+    "name": "Show All Modifiable Body Parts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yeff Scry",
+    "name": "The Elder Scrolls V Skyrim Soundtrack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.9"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zyxabacab",
+    "name": "No Sympathy for Prisoners",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheInfinityIQ",
+    "name": "Halo UNSC Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ALIEN",
+    "name": "Soviet Armory [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meow",
+    "name": "Tradable Stone Blocks",
     "steamId": null,
     "version": null
   }

@@ -4830,7 +4830,7 @@
       },
       "defName": "GAT_Hercules",
       "name": "herculean",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -4870,7 +4870,7 @@
       },
       "defName": "GAT_Achilles",
       "name": "achillean",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -4948,7 +4948,7 @@
       },
       "defName": "GAT_Ares",
       "name": "ares'wrath",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -4994,7 +4994,7 @@
       },
       "defName": "GAT_Artemis",
       "name": "artemis'blessing",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5034,7 +5034,7 @@
       },
       "defName": "GAT_Aphrodite",
       "name": "aphrodite'sgrace",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5076,7 +5076,7 @@
       },
       "defName": "GAT_Mercury",
       "name": "mercury'sblessing",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5122,7 +5122,7 @@
       },
       "defName": "GAT_Sylvanus",
       "name": "sylvanus'blessing",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5166,7 +5166,7 @@
       },
       "defName": "GAT_Vulcan",
       "name": "vulcan'sfire",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5208,7 +5208,37 @@
       },
       "defName": "GAT_Imhotep",
       "name": "imhotep'swisdom",
-      "canAdd": false,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Enjoys wearing fursuits.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[TP]Fursuits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "TRAHS_FursuiterTrait",
+      "name": "fursuiter",
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -5221,7 +5251,6 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+500 Base XP yield",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Minimum comfortable temperature",
@@ -5391,7 +5420,6 @@
         "stats": [
           "+50.00 Mass",
           "+70% Flammability",
-          "+500 Base XP yield",
           "+$1500 Market value",
           "+4.60 Move speed",
           "+14.4F Minimum comfortable temperature",
