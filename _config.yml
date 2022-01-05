@@ -1,12 +1,12 @@
 # Metadata
-title: "xredlavax's Purchase List"
+title: "Team Logic Tim's Purchaselist"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
-baseurl: '/XREDLAVAX_TTV' # the subpath of your site, e.g. /blog
-url: 'https://testingtheel33t.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'TestingTheEL33T'
+baseurl: '/Tim-s-Purchase-List' # the subpath of your site, e.g. /blog
+url: 'https://timlogic87.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'TeamLogicNL'
+github_username: 'TimLogic87'
 
 # Item list settings
 #
