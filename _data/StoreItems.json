@@ -19938,7 +19938,7 @@
 
 		"abr": "azelf",
 
-		"price": 1083,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -21762,7 +21762,7 @@
 
 		"abr": "groudon",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -21990,7 +21990,7 @@
 
 		"abr": "ho-oh",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -22386,7 +22386,7 @@
 
 		"abr": "kyogre",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -22662,7 +22662,7 @@
 
 		"abr": "lugia",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -23118,7 +23118,7 @@
 
 		"abr": "mesprit",
 
-		"price": 1083,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -23166,7 +23166,7 @@
 
 		"abr": "mew",
 
-		"price": 1167,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -23178,7 +23178,7 @@
 
 		"abr": "mewtwo",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -26766,7 +26766,7 @@
 
 		"abr": "rayquaza",
 
-		"price": 1333,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -28314,7 +28314,7 @@
 
 		"abr": "uxie",
 
-		"price": 1083,
+		"price": 5000,
 
 		"category": "Animals",
 
@@ -28356,11 +28356,503 @@
 
 		"defname": "PW_Venomoth"
 
+	},
+
+	{
+
+		"abr": "venonat",
+
+		"price": 583,
+
+		"category": "Animals",
+
+		"defname": "PW_Venonat"
+
+	},
+
+	{
+
+		"abr": "venusaur",
+
+		"price": 1000,
+
+		"category": "Animals",
+
+		"defname": "PW_Venusaur"
+
+	},
+
+	{
+
+		"abr": "vespiquen",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Vespiquen"
+
+	},
+
+	{
+
+		"abr": "vibrava",
+
+		"price": 667,
+
+		"category": "Animals",
+
+		"defname": "PW_Vibrava"
+
+	},
+
+	{
+
+		"abr": "victreebel",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Victreebel"
+
+	},
+
+	{
+
+		"abr": "vigoroth",
+
+		"price": 833,
+
+		"category": "Animals",
+
+		"defname": "PW_Vigoroth"
+
+	},
+
+	{
+
+		"abr": "vileplume",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Vileplume"
+
+	},
+
+	{
+
+		"abr": "volbeat",
+
+		"price": 833,
+
+		"category": "Animals",
+
+		"defname": "PW_Volbeat"
+
+	},
+
+	{
+
+		"abr": "voltorb",
+
+		"price": 667,
+
+		"category": "Animals",
+
+		"defname": "PW_Voltorb"
+
+	},
+
+	{
+
+		"abr": "vulpix",
+
+		"price": 583,
+
+		"category": "Animals",
+
+		"defname": "PW_Vulpix"
+
+	},
+
+	{
+
+		"abr": "wailmer",
+
+		"price": 750,
+
+		"category": "Animals",
+
+		"defname": "PW_Wailmer"
+
+	},
+
+	{
+
+		"abr": "wailord",
+
+		"price": 1000,
+
+		"category": "Animals",
+
+		"defname": "PW_Wailord"
+
+	},
+
+	{
+
+		"abr": "walk-infreezerunit",
+
+		"price": 153,
+
+		"category": "Misc",
+
+		"defname": "FreezerUnit"
+
+	},
+
+	{
+
+		"abr": "walrein",
+
+		"price": 1000,
+
+		"category": "Animals",
+
+		"defname": "PW_Walrein"
+
+	},
+
+	{
+
+		"abr": "wartortle",
+
+		"price": 750,
+
+		"category": "Animals",
+
+		"defname": "PW_Wartortle"
+
+	},
+
+	{
+
+		"abr": "waterstone",
+
+		"price": 250,
+
+		"category": "Stones",
+
+		"defname": "PW_WaterStone"
+
+	},
+
+	{
+
+		"abr": "weathernormalizationdevice",
+
+		"price": 2000,
+
+		"category": "Artifacts",
+
+		"defname": "WeatherCancelDevice"
+
+	},
+
+	{
+
+		"abr": "weavile",
+
+		"price": 1000,
+
+		"category": "Animals",
+
+		"defname": "PW_Weavile"
+
+	},
+
+	{
+
+		"abr": "weedle",
+
+		"price": 333,
+
+		"category": "Animals",
+
+		"defname": "PW_Weedle"
+
+	},
+
+	{
+
+		"abr": "weepinbell",
+
+		"price": 750,
+
+		"category": "Animals",
+
+		"defname": "PW_Weepinbell"
+
+	},
+
+	{
+
+		"abr": "weezing",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Weezing"
+
+	},
+
+	{
+
+		"abr": "whiscash",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Whiscash"
+
+	},
+
+	{
+
+		"abr": "whismur",
+
+		"price": 500,
+
+		"category": "Animals",
+
+		"defname": "PW_Whismur"
+
+	},
+
+	{
+
+		"abr": "wickerman",
+
+		"price": 178,
+
+		"category": "Misc",
+
+		"defname": "VME_WickerMan"
+
+	},
+
+	{
+
+		"abr": "wigglytuff",
+
+		"price": 833,
+
+		"category": "Animals",
+
+		"defname": "PW_Wigglytuff"
+
+	},
+
+	{
+
+		"abr": "wingull",
+
+		"price": 500,
+
+		"category": "Animals",
+
+		"defname": "PW_Wingull"
+
+	},
+
+	{
+
+		"abr": "wobbuffet",
+
+		"price": 750,
+
+		"category": "Animals",
+
+		"defname": "PW_Wobbuffet"
+
+	},
+
+	{
+
+		"abr": "wooper",
+
+		"price": 417,
+
+		"category": "Animals",
+
+		"defname": "PW_Wooper"
+
+	},
+
+	{
+
+		"abr": "wormadam",
+
+		"price": 833,
+
+		"category": "Animals",
+
+		"defname": "PW_Wormadam"
+
+	},
+
+	{
+
+		"abr": "wurmple",
+
+		"price": 333,
+
+		"category": "Animals",
+
+		"defname": "PW_Wurmple"
+
+	},
+
+	{
+
+		"abr": "wynaut",
+
+		"price": 500,
+
+		"category": "Animals",
+
+		"defname": "PW_Wynaut"
+
+	},
+
+	{
+
+		"abr": "wyrm",
+
+		"price": 4000,
+
+		"category": "Animals",
+
+		"defname": "VAECaves_Wyrm"
+
+	},
+
+	{
+
+		"abr": "wyrmmeat",
+
+		"price": 3,
+
+		"category": "Meat",
+
+		"defname": "Meat_VAECaves_Wyrm"
+
+	},
+
+	{
+
+		"abr": "xatu",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Xatu"
+
+	},
+
+	{
+
+		"abr": "yanma",
+
+		"price": 750,
+
+		"category": "Animals",
+
+		"defname": "PW_Yanma"
+
+	},
+
+	{
+
+		"abr": "yanmega",
+
+		"price": 1000,
+
+		"category": "Animals",
+
+		"defname": "PW_Yanmega"
+
+	},
+
+	{
+
+		"abr": "zangoose",
+
+		"price": 917,
+
+		"category": "Animals",
+
+		"defname": "PW_Zangoose"
+
+	},
+
+	{
+
+		"abr": "zapdos",
+
+		"price": 1083,
+
+		"category": "Animals",
+
+		"defname": "PW_Zapdos"
+
+	},
+
+	{
+
+		"abr": "zigzagoon",
+
+		"price": 500,
+
+		"category": "Animals",
+
+		"defname": "PW_Zigzagoon"
+
+	},
+
+	{
+
+		"abr": "zubat",
+
+		"price": 500,
+
+		"category": "Animals",
+
+		"defname": "PW_Zubat"
+
+	},
+
+	{
+
+		"abr": "woodencanopy",
+
+		"price": 104,
+
+		"category": "Furniture",
+
+		"defname": "WoodenCanopy"
+
 	}
 
 	],
 
-	"total": 2403
+	"total": 2404
 
 }
 
