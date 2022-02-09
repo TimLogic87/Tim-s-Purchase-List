@@ -4,26 +4,6 @@
 
 	{
 
-		"abr": "tornado",
-
-		"price": 12500,
-
-		"karmatype": "Bad"
-
-	},
-
-	{
-
-		"abr": "tornados",
-
-		"price": 25000,
-
-		"karmatype": "Bad"
-
-	},
-
-	{
-
 		"abr": "clearweather",
 
 		"price": 400,
@@ -844,7 +824,7 @@
 
 	],
 
-	"total": 84
+	"total": 82
 
 }
 
